@@ -1,9 +1,960 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
     <title>EFE — Todas las noticias</title>
-    <link>https://efe.com/</link>
+    <link>https://efe.com</link>
     <description>Todas las noticias públicas de EFE, incluidas Economía, empresas, España, Mundo y Europa.</description>
     <language>es-ES</language>
+    <lastBuildDate>Sun, 06 Sep 2026 09:02:33 +0000</lastBuildDate>
+    <item>
+      <title>Vivas se reunirá el martes en Bruselas con comisarios de la UE por la crisis de Ceuta</title>
+      <link>https://efe.com/espana/2026-09-06/vivas-reunion-bruselas-comisarios-ue-crisis-ceuta/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-06/vivas-reunion-bruselas-comisarios-ue-crisis-ceuta/</guid>
+      <pubDate>Sun, 06 Sep 2026 08:40:32 +0000</pubDate>
+      <category>España</category>
+      <description>El presidente de Ceuta, Juan Jesús Vivas, se reunirá este martes en Bruselas con varios para abordar la crisis migratoria.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/vivas.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Lecturas para acompañar la vuelta al cole, desde Primaria a Bachillerato</title>
+      <link>https://efe.com/cultura/2026-09-06/lecturas-primaria-a-bachillerato/</link>
+      <guid isPermaLink="true">https://efe.com/cultura/2026-09-06/lecturas-primaria-a-bachillerato/</guid>
+      <pubDate>Sun, 06 Sep 2026 08:19:41 +0000</pubDate>
+      <category>Cultura</category>
+      <description>La vuelta al cole no implica solo libros de texto, también la oportunidad de incorporar la lectura recreativa.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/lectura.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El juez Peinado prevé abrir juicio a Begoña Gómez antes de jubilarse a finales de mes</title>
+      <link>https://efe.com/espana/2026-09-06/juez-peinado-juicio-begona-gomez/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-06/juez-peinado-juicio-begona-gomez/</guid>
+      <pubDate>Sun, 06 Sep 2026 08:01:43 +0000</pubDate>
+      <category>España</category>
+      <description>El juez Juan Carlos Peinado prevé dictar auto de apertura de juicio oral a Begoña Gómez, antes de jubilarse a finales de septiembre.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/peinado.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La Unión Europea afronta "un gran reto" en defensa para el año 2030, según el Tribunal de Cuentas Europeo</title>
+      <link>https://efe.com/euro-efe/2026-09-06/ue-reto-defensa-2030-informe-tribuna-cuentas/</link>
+      <guid isPermaLink="true">https://efe.com/euro-efe/2026-09-06/ue-reto-defensa-2030-informe-tribuna-cuentas/</guid>
+      <pubDate>Sun, 06 Sep 2026 08:01:00 +0000</pubDate>
+      <category>EuroEFE</category>
+      <description>La UE afronta un gran reto para poder sostener por sí sola operaciones militares de alta intensidad antes de 2030, según un análisis del TCE.</description>
+      <author>Sandra Municio</author>
+      <enclosure url="https://i0.wp.com/efe.com/wp-content/uploads/2026/09/UE-afronta-un-gran-reto-en-defensa-para-el-ano-2030-segun-el-Tribunal-de-Cuentas-Europeo.webp?fit=900%2C576&amp;ssl=1" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El repunte de la inflación tensa la negociación para la subida del salario mínimo en 2027</title>
+      <link>https://efe.com/economia/2026-09-06/inflacion-negociacion-salario-minimo/</link>
+      <guid isPermaLink="true">https://efe.com/economia/2026-09-06/inflacion-negociacion-salario-minimo/</guid>
+      <pubDate>Sun, 06 Sep 2026 07:49:27 +0000</pubDate>
+      <category>Economía y empresas</category>
+      <description>El Ministerio de Trabajo encara la negociación para abordar una nueva subida del salario mínimo interprofesional (SMI) en 2027.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/salario.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Carlos Cuerpo abre el lunes la nueva temporada de 'Los Desayunos' de RTVE y EFE</title>
+      <link>https://efe.com/economia/2026-09-06/carlos-cuerpo-nueva-temporada-los-desayunos-rtve-y-efe/</link>
+      <guid isPermaLink="true">https://efe.com/economia/2026-09-06/carlos-cuerpo-nueva-temporada-los-desayunos-rtve-y-efe/</guid>
+      <pubDate>Sun, 06 Sep 2026 07:38:53 +0000</pubDate>
+      <category>Economía y empresas</category>
+      <description>La Agencia EFE y RTVE inauguran este lunes una nueva temporada del programa 'Los Desayunos' con una entrevista a Carlos Cuerpo.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/desayunos.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Congreso y Senado se reactivan con los focos en Ceuta y los juzgados</title>
+      <link>https://efe.com/espana/2026-09-06/congreso-senado-semana-politica/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-06/congreso-senado-semana-politica/</guid>
+      <pubDate>Sun, 06 Sep 2026 07:26:13 +0000</pubDate>
+      <category>España</category>
+      <description>El Congreso y el Senado reanudan esta semana su actividad ordinaria y ambas cámaras celebran sesiones plenarias.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/congreos.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El caso Leire regresa con la gerente del PSOE y el exdirector de la Guardia Civil</title>
+      <link>https://efe.com/espana/2026-09-06/caso-leire-regresa-juzgados/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-06/caso-leire-regresa-juzgados/</guid>
+      <pubDate>Sun, 06 Sep 2026 07:17:30 +0000</pubDate>
+      <category>España</category>
+      <description>El caso Leire regresa esta semana con las citaciones el próximo miércoles, tras un breve parón en el mes de agosto.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/LEIRE.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La causa contra Zapatero se retoma con los dos exdirectivos de Plus Ultra que le señalaron</title>
+      <link>https://efe.com/espana/2026-09-06/causa-zapatero-plus-ultra/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-06/causa-zapatero-plus-ultra/</guid>
+      <pubDate>Sun, 06 Sep 2026 06:42:26 +0000</pubDate>
+      <category>España</category>
+      <description>La causa contra José Luis Rodríguez Zapatero se retoma este lunes en la Audiencia Nacional.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/zp.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Más del 80 % de la población española respira aire contaminado</title>
+      <link>https://efe.com/medio-ambiente/2026-09-06/aire-contaminado-poblacion-espanola/</link>
+      <guid isPermaLink="true">https://efe.com/medio-ambiente/2026-09-06/aire-contaminado-poblacion-espanola/</guid>
+      <pubDate>Sun, 06 Sep 2026 06:30:11 +0000</pubDate>
+      <category>Medio Ambiente</category>
+      <description>Más del 80 % de la población española respira aire contaminado, asegura a EFE Cristina Arjona, responsable de movilidad de Greenpeace.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/conta.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La 'Eala Mania' convierte el Abierto de EE.UU. en una pequeña Filipinas</title>
+      <link>https://efe.com/deportes/2026-09-06/eala-mania-abierto-eeuu/</link>
+      <guid isPermaLink="true">https://efe.com/deportes/2026-09-06/eala-mania-abierto-eeuu/</guid>
+      <pubDate>Sun, 06 Sep 2026 06:21:53 +0000</pubDate>
+      <category>Deportes</category>
+      <description>El estadio Arthur Ashe se tiñó este sábado de azul, rojo y blanco en honor a Alexandra Eala, a pesar de su derrota.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/EALA.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Trump ve "triste" lo que pasa en Ceuta y dice que España no controla su frontera</title>
+      <link>https://efe.com/espana/2026-09-06/trump-ceuta-frontera/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-06/trump-ceuta-frontera/</guid>
+      <pubDate>Sun, 06 Sep 2026 06:15:25 +0000</pubDate>
+      <category>España</category>
+      <description>Donald Trump calificó hoy de "triste" lo que ocurre en Ceuta y dijo que España es un país con "cero control" de sus fronteras.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/TRUMP.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Israel ataca de nuevo el sur del Líbano y acusa a Hizbulá de enviar drones contra soldados</title>
+      <link>https://efe.com/mundo/2026-09-06/israel-libano-ataques-4/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-06/israel-libano-ataques-4/</guid>
+      <pubDate>Sun, 06 Sep 2026 05:55:52 +0000</pubDate>
+      <category>Mundo</category>
+      <description>El Ejército de Israel afirmó que sus fuerzas volvieron a atacar el sur del Líbano y acusa a Hizbulá de enviar drones contra soldados.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/libano-1.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Abren los colegios electorales en Sajonia-Anhalt con la ultraderecha como favorita</title>
+      <link>https://efe.com/euro-efe/2026-09-06/elecciones-sajonia-anhalt/</link>
+      <guid isPermaLink="true">https://efe.com/euro-efe/2026-09-06/elecciones-sajonia-anhalt/</guid>
+      <pubDate>Sun, 06 Sep 2026 05:45:41 +0000</pubDate>
+      <category>EuroEFE</category>
+      <description>El estado federado de Sajonia-Anhalt, en el este de Alemania, celebra elecciones regionales este domingo, pendiente de la ultraderecha.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/sajonias.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Rusia inaugura un proyecto que permitirá transportar petróleo en barco por la ruta ártica</title>
+      <link>https://efe.com/economia/2026-09-06/rusia-transporte-petroleo-barco-ruta-artica/</link>
+      <guid isPermaLink="true">https://efe.com/economia/2026-09-06/rusia-transporte-petroleo-barco-ruta-artica/</guid>
+      <pubDate>Sun, 06 Sep 2026 05:40:18 +0000</pubDate>
+      <category>Economía y empresas</category>
+      <description>Putin puso hen marcha un ambicioso proyecto energético que permitirá transportar petróleo en grandes cantidades por la ruta ártica.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/putin-3.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El Gobierno de Ceuta considera un grave error utilizar el puerto para albergar migrantes</title>
+      <link>https://efe.com/espana/2026-09-06/ceuta-crisis-migrantes/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-06/ceuta-crisis-migrantes/</guid>
+      <pubDate>Sun, 06 Sep 2026 05:32:17 +0000</pubDate>
+      <category>España</category>
+      <description>El Gobierno de Ceuta califica como "grave error" la decisión del Ejecutivo de utilizar los terrenos del puerto para un nuevo asentamiento.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/xceuta.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Irán responde a EE.UU. con ataques a portaviones, embarcaciones y un dron naval en el estrecho de Ormuz</title>
+      <link>https://efe.com/mundo/2026-09-06/iran-eeuu-conflicto-ataques/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-06/iran-eeuu-conflicto-ataques/</guid>
+      <pubDate>Sun, 06 Sep 2026 05:26:06 +0000</pubDate>
+      <category>Mundo</category>
+      <description>La Guardia Revolucionaria Islámica de Irán (CGRI) afirmó que atacó a tres barcos petroleros en "rutas no autorizadas" en el estrecho de Ormuz.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/iran-1.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ucrania y Rusia reanudan los ataques antes de la visita de los emisarios de Trump a Kiev</title>
+      <link>https://efe.com/mundo/2026-09-06/rusia-ucrania-emisarios-negociaciones/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-06/rusia-ucrania-emisarios-negociaciones/</guid>
+      <pubDate>Sun, 06 Sep 2026 05:18:29 +0000</pubDate>
+      <category>Mundo</category>
+      <description>Vladímir Putin aseguró a los emisarios de la Casa Blanca que el Ejército ruso alcanzará los objetivos que se ha marcado en Ucrania.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/rusia-4.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Seat, una marca histórica con un futuro incierto y a expensas de su electrificación</title>
+      <link>https://efe.com/economia/2026-09-06/seat-futuro-incierto/</link>
+      <guid isPermaLink="true">https://efe.com/economia/2026-09-06/seat-futuro-incierto/</guid>
+      <pubDate>Sun, 06 Sep 2026 05:00:00 +0000</pubDate>
+      <category>Cataluña</category>
+      <description>Los ajustes en el grupo Volkswagen han resucitado en los últimos días el debate sobre la continuidad de la histórica marca Seat.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/seat.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La escultura 'Carmen' reivindica identidad rural, memoria y sostenibilidad en Ventosa</title>
+      <link>https://efe.com/la-rioja/2026-09-06/la-escultura-carmen-reivindica-identidad-rural-memoria-y-sostenibilidad-en-ventosa/</link>
+      <guid isPermaLink="true">https://efe.com/la-rioja/2026-09-06/la-escultura-carmen-reivindica-identidad-rural-memoria-y-sostenibilidad-en-ventosa/</guid>
+      <pubDate>Sun, 06 Sep 2026 05:00:00 +0000</pubDate>
+      <category>La Rioja</category>
+      <description>Divergente crea en Ventosa la escultura 'Carmen' con madera reciclada. Proyecto participativo ligado a identidad rural y sostenibilidad.</description>
+      <author>Rebeca Palacios</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/GRAF223-ESPANA-ARTE-RURAL.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Freddie Mercury, ochenta años de una historia que comenzó en Zanzíbar</title>
+      <link>https://efe.com/cultura/2026-09-06/freddie-mercury-ochenta-anos-historia-zanzibar/</link>
+      <guid isPermaLink="true">https://efe.com/cultura/2026-09-06/freddie-mercury-ochenta-anos-historia-zanzibar/</guid>
+      <pubDate>Sun, 06 Sep 2026 05:00:00 +0000</pubDate>
+      <category>Cultura</category>
+      <description>Freddie Mercury fue Farrokh Bulsara, un niño nacido hace ochenta años en la paradisiaca isla tanzana de Zanzíbar.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/mercury-1.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Un libro devuelve un siglo de memoria de una ciudad contada desde la barra de 166 bares</title>
+      <link>https://efe.com/local/2026-09-06/un-libro-devuelve-un-siglo-de-memoria-de-una-ciudad-contada-desde-la-barra-de-166-bares/</link>
+      <guid isPermaLink="true">https://efe.com/local/2026-09-06/un-libro-devuelve-un-siglo-de-memoria-de-una-ciudad-contada-desde-la-barra-de-166-bares/</guid>
+      <pubDate>Sun, 06 Sep 2026 04:35:00 +0000</pubDate>
+      <category>Cantabria - EFE</category>
+      <description>La memoria de un siglo de Torrelavega contada desde la barra de un bar es la propuesta que Joaquín Díaz Rodríguez plantea en un libro.</description>
+      <author>Francisco Bustamante Merino</author>
+      <enclosure url="https://i0.wp.com/efe.com/wp-content/uploads/2026/09/GRAF131-ESPANA-TORRELAVEGA-LIBROS.webp?fit=900%2C600&amp;ssl=1" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Santoña inmortaliza su historia con un museo dedicado a la identidad conservera</title>
+      <link>https://efe.com/euro-efe/euroefe-economia/euroefe-agricultura-y-pesca/2026-09-06/santona-inmortaliza-su-historia-con-un-museo-dedicado-a-la-identidad-conservera/</link>
+      <guid isPermaLink="true">https://efe.com/euro-efe/euroefe-economia/euroefe-agricultura-y-pesca/2026-09-06/santona-inmortaliza-su-historia-con-un-museo-dedicado-a-la-identidad-conservera/</guid>
+      <pubDate>Sun, 06 Sep 2026 04:30:00 +0000</pubDate>
+      <category>Cantabria - EFE</category>
+      <description>Santoña cuenta ya con el primer museo dedicado a su historia conservera para mostrar al mundo el procesado de la anchoa.</description>
+      <author>Francisco Bustamante Merino</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/GRAF155-CANT-SANTONA-CONSERVAS.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Fotógrafo de EFE en Los Ángeles inaugura su primera retrospectiva personal</title>
+      <link>https://efe.com/cultura/2026-09-06/omar-alonso-fotografo-efe/</link>
+      <guid isPermaLink="true">https://efe.com/cultura/2026-09-06/omar-alonso-fotografo-efe/</guid>
+      <pubDate>Sun, 06 Sep 2026 04:29:07 +0000</pubDate>
+      <category>Cultura</category>
+      <description>El fotógrafo de EFE en Los Ángeles, Omar Alonso, inauguró este sábado en la ciudad californiana su primera retrospectiva personal.</description>
+      <author>Andres Alfonso Romero Cuesta</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/efe_fotografo.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El Gobierno de Yemen dice haber recuperado de los hutíes un importante distrito del suroeste</title>
+      <link>https://efe.com/mundo/2026-09-06/yemen-distrito-huties/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-06/yemen-distrito-huties/</guid>
+      <pubDate>Sun, 06 Sep 2026 04:07:19 +0000</pubDate>
+      <category>Mundo</category>
+      <description>El Gobierno de Yemen recupera el distrito estratégico de Hays, tras desplazar a los rebeldes chiíes hutíes en la provincia suroccidental de Al Hudeida.</description>
+      <author>Andres Alfonso Romero Cuesta</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/yemen_militares.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bad Bunny gana su primer Emmy gracias a su espectáculo de medio tiempo del Super Bowl</title>
+      <link>https://efe.com/cultura/2026-09-06/bad-bunny-gana-premio-emmy/</link>
+      <guid isPermaLink="true">https://efe.com/cultura/2026-09-06/bad-bunny-gana-premio-emmy/</guid>
+      <pubDate>Sun, 06 Sep 2026 02:38:30 +0000</pubDate>
+      <category>Cultura</category>
+      <description>Bad Bunny gana su primer Emmy por el show del Super Bowl, durante la entrega de los Creative Arts Emmys previa a la gala televisada del 14 de septiembre.</description>
+      <author>Andres Alfonso Romero Cuesta</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/bad_bunny_emmy.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Raúl Castro participa en un acto público en Cuba tras los rumores sobre su estado de salud</title>
+      <link>https://efe.com/mundo/2026-09-06/raul-castro-reaparece-cuba/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-06/raul-castro-reaparece-cuba/</guid>
+      <pubDate>Sun, 06 Sep 2026 01:22:33 +0000</pubDate>
+      <category>Mundo</category>
+      <description>El expresidente Raúl Castro reaparece en público en Cuba durante un acto militar del Ministerio del Interior, disipando rumores sobre su salud.</description>
+      <author>Andres Alfonso Romero Cuesta</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/castro_raul.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Una nueva medida judicial ordena al Gobierno de Colombia evitar bombardear zonas con menores</title>
+      <link>https://efe.com/mundo/2026-09-06/fallo-bombardeos-zonas-menores-colombia/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-06/fallo-bombardeos-zonas-menores-colombia/</guid>
+      <pubDate>Sun, 06 Sep 2026 00:33:57 +0000</pubDate>
+      <category>Mundo</category>
+      <description>Un tribunal frena bombardeos del Ejército en Guaviare ante la presencia de menores, mediante un fallo que obliga a De la Espriella a frenar estos ataques.</description>
+      <author>Andres Alfonso Romero Cuesta</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/colombia_ejercito.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Kast valora el "respeto" ante las diferencias políticas tras la polémica del Foro Madrid</title>
+      <link>https://efe.com/mundo/2026-09-06/kast-respeto-foro-madrid/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-06/kast-respeto-foro-madrid/</guid>
+      <pubDate>Sat, 05 Sep 2026 22:52:14 +0000</pubDate>
+      <category>Mundo</category>
+      <description>El presidente de Chile, José Antonio Kast, destacó el valor del "respeto" pese a las diferencias políticas tras una semana con polémicas que dejó el Foro Madrid.</description>
+      <author>Andres Alfonso Romero Cuesta</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/kast_foro.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bukele destaca la evaluación del plan piloto con IA en escuelas públicas de El Salvador</title>
+      <link>https://efe.com/educacion/2026-09-06/bukele-ia-el-salvador/</link>
+      <guid isPermaLink="true">https://efe.com/educacion/2026-09-06/bukele-ia-el-salvador/</guid>
+      <pubDate>Sat, 05 Sep 2026 22:05:40 +0000</pubDate>
+      <category>Educación</category>
+      <description>El presidente de El Salvador, Nayib Bukele, destacó los resultados de una evaluación internacional a un programa piloto en 171 escuelas que utiliza "tutores con inteligencia artificial (IA)".</description>
+      <author>Alfonso Hernandez</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/OBJ_20260520T024228S0012I_1_1_1_43_7_6.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Nueve gazatíes heridos por un misil interceptor israelí activado por fuego del propio Israel</title>
+      <link>https://efe.com/mundo/2026-09-05/gaza-heridos-misil-interceptor-israel/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-05/gaza-heridos-misil-interceptor-israel/</guid>
+      <pubDate>Sat, 05 Sep 2026 19:20:28 +0000</pubDate>
+      <category>Mundo</category>
+      <description>Nueve gazatíes resultaron heridos en la ciudad de Gaza al caer los restos de un misil interceptor lanzado por error por Israel.</description>
+      <author>María Abad</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/GRAF637-ISRAEL-PALESTINA.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Artesanas tsotsiles mexicanas crean catálogo para defender tejidos de las grandes marcas</title>
+      <link>https://efe.com/cultura/2026-09-05/artesanas-tsotsiles-mexicanas/</link>
+      <guid isPermaLink="true">https://efe.com/cultura/2026-09-05/artesanas-tsotsiles-mexicanas/</guid>
+      <pubDate>Sat, 05 Sep 2026 19:11:53 +0000</pubDate>
+      <category>Cultura</category>
+      <description>Más de 208 símbolos tejidos durante generaciones por mujeres indígenas tsotsiles del estado de Chiapas (sureste de México) ha comenzado a quedar registrados en un catálogo comunitario.</description>
+      <author>Alfonso Hernandez</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/OBJ_20260905T042456S0002I_1_299_1_43_3_1.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Perú destinará 18 millones de dólares para organizar la visita de papa León XIV</title>
+      <link>https://efe.com/mundo/2026-09-05/peru-papa-leon-leon-visita/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-05/peru-papa-leon-leon-visita/</guid>
+      <pubDate>Sat, 05 Sep 2026 18:31:44 +0000</pubDate>
+      <category>Mundo</category>
+      <description>El gobierno peruano autorizó al ministerio de Economía transferir 63,2 millones de soles (18 millones de dólares) a la cancillería para organizar la visita a Perú del papa León XIV.</description>
+      <author>Alfonso Hernandez</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/OBJ_20260830T111642S0008I_1_1_1_47_7_8.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Muere un joven tras caer de una valla en el Día de los Gansos de Lekeitio (Bizkaia)</title>
+      <link>https://efe.com/espana/2026-09-05/muere-joven-dia-de-los-gansos-de-lekeitio-bizkaia/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-05/muere-joven-dia-de-los-gansos-de-lekeitio-bizkaia/</guid>
+      <pubDate>Sat, 05 Sep 2026 18:27:03 +0000</pubDate>
+      <category>España</category>
+      <description>Un joven ha fallecido en Lekeitio (Bizkaia) tras caer de una valla de seguridad durante la celebración de la fiesta del Día de los Gansos.</description>
+      <author>María Abad</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/GRAF448-ESPANA-SUCESOS-ACCIDENTE.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Polonia quiere certificar su estatus de potencia con la entrada en el G20</title>
+      <link>https://efe.com/economia/2026-09-05/polonia-estatus-potencia-entrada-paises-g20/</link>
+      <guid isPermaLink="true">https://efe.com/economia/2026-09-05/polonia-estatus-potencia-entrada-paises-g20/</guid>
+      <pubDate>Sat, 05 Sep 2026 18:11:26 +0000</pubDate>
+      <category>Economía y empresas</category>
+      <description>Polonia, cuyo PIB supera ya el billón de dólares, se propone entrar en el G20 y consolidarse como una de las principales economías del mundo.</description>
+      <author>María Abad</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/GRAF161-POLONIA-ECONOMIA.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El director del Instituto Cervantes defiende la pujanza del español en Brasil</title>
+      <link>https://efe.com/cultura/2026-09-05/instituto-cervantes-brasil/</link>
+      <guid isPermaLink="true">https://efe.com/cultura/2026-09-05/instituto-cervantes-brasil/</guid>
+      <pubDate>Sat, 05 Sep 2026 18:10:16 +0000</pubDate>
+      <category>Cultura</category>
+      <description>El español mantiene su pujanza en Brasil y despierta un interés creciente en el país, pese a haber dejado de ser una lengua de enseñanza obligatoria en las escuelas, afirmó este sábado el director del Instituto Cervantes, Luis García Montero.</description>
+      <author>Alfonso Hernandez</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/OBJ_20260905T154338S0032I_1_1_1_43_3_1.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Reform UK conference: Supporters rally behind Farage amid ongoing investigations</title>
+      <link>https://efe.com/english/latest-news/2026-09-05/reform-uk-conference-supporters-rally-behind-farage-amid-ongoing-investigations/</link>
+      <guid isPermaLink="true">https://efe.com/english/latest-news/2026-09-05/reform-uk-conference-supporters-rally-behind-farage-amid-ongoing-investigations/</guid>
+      <pubDate>Sat, 05 Sep 2026 18:06:21 +0000</pubDate>
+      <category>Latest news</category>
+      <description>Amid growing allegations of irregular funding, Reform UK's grassroots supporters remain steadfast in their backing of their leader, Farage.</description>
+      <author>Agencia EFE</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/rss-efed81360083abbda51195a6a7867d41e7b4d0e9c35w.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La compañía SÖA reivindica una danza sin fronteras entre humor, teatro y movimiento</title>
+      <link>https://efe.com/galicia/2026-09-05/la-compania-soa-reivindica-una-danza-sin-fronteras-entre-humor-teatro-y-movimiento/</link>
+      <guid isPermaLink="true">https://efe.com/galicia/2026-09-05/la-compania-soa-reivindica-una-danza-sin-fronteras-entre-humor-teatro-y-movimiento/</guid>
+      <pubDate>Sat, 05 Sep 2026 17:07:39 +0000</pubDate>
+      <category>Cultura</category>
+      <description>La compañía gallega SÖA prepara 'Daydreaming', un solo de danza de Martín Blanco que se estrenará en 2027 en coproducción con el Centro Coreográfico Galego.</description>
+      <author>José Carlos Rodríguez</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/GRAF7727-GAL-CULTURA-DANZA.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Miles de personas disfrutan en Lekeitio del Día de los Gansos</title>
+      <link>https://efe.com/pais-vasco/2026-09-05/dia-gansos-lekeitio/</link>
+      <guid isPermaLink="true">https://efe.com/pais-vasco/2026-09-05/dia-gansos-lekeitio/</guid>
+      <pubDate>Sat, 05 Sep 2026 16:51:28 +0000</pubDate>
+      <category>País Vasco</category>
+      <description>Miles de personas se han congregado este sábado en Lekeitio (Bizkaia) para disfrutar del Día de los Gansos, una de las fiestas más antiguas de Euskadi</description>
+      <author>Nuria Monchón Martínez</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/1ESPANA-FESTIVIDADES.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Las batallas de aura llegan a Canarias de la mano del festival 'Gran Canaria Experience'</title>
+      <link>https://efe.com/ciencia-y-tecnologia/2026-09-05/las-batallas-de-aura-llegan-a-canarias-de-la-mano-del-festival-gran-canaria-experience/</link>
+      <guid isPermaLink="true">https://efe.com/ciencia-y-tecnologia/2026-09-05/las-batallas-de-aura-llegan-a-canarias-de-la-mano-del-festival-gran-canaria-experience/</guid>
+      <pubDate>Sat, 05 Sep 2026 16:42:15 +0000</pubDate>
+      <category>Canarias</category>
+      <description>Las Palmas de Gran Canaria (EFE).- El fenómeno mundial de las batallas de aura o para farmear aura, cuyos participantes realizan acciones, poses o gestos de manera deliberada para acumular carisma, presencia y estilo frente a los demás, como si se tratara de sumar puntos de popularidad en un videojuego, llegan a Canarias. Y lo ... Leer más</description>
+      <author>Agencia EFE</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/rss-efe4d4cbc0576b29eba04325df2516051c12eb8c8daw.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ávila se refugia en el medievo</title>
+      <link>https://efe.com/castilla-y-leon/2026-09-05/avila-se-refugia-en-el-medievo/</link>
+      <guid isPermaLink="true">https://efe.com/castilla-y-leon/2026-09-05/avila-se-refugia-en-el-medievo/</guid>
+      <pubDate>Sat, 05 Sep 2026 16:29:22 +0000</pubDate>
+      <category>Castilla y León</category>
+      <description>Las Jornadas Medievales de Ávila han superado su ecuador con un desfile en el que han participado cerca de trescientos figurantes</description>
+      <author>Roberto Jiménez Hernando</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/GRAF290-CYL-JORNADAS-MEDIEVALES-1.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Sanxenxo lleva a su sartén gigante el reto de la tortilla más grande del mundo</title>
+      <link>https://efe.com/galicia/2026-09-05/sanxenxo-tortilla-mas-grande-del-mundo/</link>
+      <guid isPermaLink="true">https://efe.com/galicia/2026-09-05/sanxenxo-tortilla-mas-grande-del-mundo/</guid>
+      <pubDate>Sat, 05 Sep 2026 16:19:31 +0000</pubDate>
+      <category>Galicia</category>
+      <description>Sanxenxo es escenario de un nuevo reto gastronómico, de la que aspira a ser la tortilla de patatas más grande del mundo.</description>
+      <author>María Abad</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/GRAF340-ESPANA-TORTILLA-GIGANTE.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Nazareth Castellanos: “Ver algo que consideramos bello contribuye a nuestra salud mental”</title>
+      <link>https://efe.com/castilla-y-leon/2026-09-05/nazareth-castellanos-la-belleza-contribuye-a-la-salud-mental/</link>
+      <guid isPermaLink="true">https://efe.com/castilla-y-leon/2026-09-05/nazareth-castellanos-la-belleza-contribuye-a-la-salud-mental/</guid>
+      <pubDate>Sat, 05 Sep 2026 16:12:57 +0000</pubDate>
+      <category>Castilla y León</category>
+      <description>La neurocientífica Nazareth Castellanos considera que la belleza no es sólo una experiencia agradable, sino que contribuye a la salud mental.</description>
+      <author>Roberto Jiménez Hernando</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/GRAF440-CYL-HAY-FESTIVAL.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Trump 2.0: el Gobierno a golpe de amenazas maximalistas a países, aliados e instituciones</title>
+      <link>https://efe.com/mundo/2026-09-05/trump-gobierno-amenazas/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-05/trump-gobierno-amenazas/</guid>
+      <pubDate>Sat, 05 Sep 2026 16:06:54 +0000</pubDate>
+      <category>Mundo</category>
+      <description>Desde su regreso a la Casa Blanca, el presidente de EE.UU., Donald Trump, ha convertido las amenazas maximalistas en una herramienta recurrente de su Gobierno.</description>
+      <author>Alfonso Hernandez</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/OBJ_20260904T200332S0020I_1_1_1_47_3_1.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Fallece un ciclista al chocar contra otro en la contrarreloj de la V Vuelta Soria Máster</title>
+      <link>https://efe.com/castilla-y-leon/2026-09-05/fallece-un-ciclista-en-la-contrarreloj-de-la-v-vuelta-soria-master/</link>
+      <guid isPermaLink="true">https://efe.com/castilla-y-leon/2026-09-05/fallece-un-ciclista-en-la-contrarreloj-de-la-v-vuelta-soria-master/</guid>
+      <pubDate>Sat, 05 Sep 2026 16:06:04 +0000</pubDate>
+      <category>Castilla y León</category>
+      <description>El ciclista accidentado en la contrarreloj de la V Vuelta Soria Máster ha fallecido pese a los esfuerzos de reanimación de las asistencias.</description>
+      <author>Roberto Jiménez Hernando</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/GRAF333-CICLISMO-SUCESO.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La nueva Plataforma por la Enseñanza Pública lleva sus demandas a las calles de Santander</title>
+      <link>https://efe.com/otras-noticias-espana/2026-09-05/la-nueva-plataforma-por-la-ensenanza-publica-lleva-sus-demandas-a-las-calles-de-santander/</link>
+      <guid isPermaLink="true">https://efe.com/otras-noticias-espana/2026-09-05/la-nueva-plataforma-por-la-ensenanza-publica-lleva-sus-demandas-a-las-calles-de-santander/</guid>
+      <pubDate>Sat, 05 Sep 2026 15:45:19 +0000</pubDate>
+      <category>Cantabria - EFE</category>
+      <description>La nueva Plataforma por la Enseñanza Pública en Cantabria ha llevado este sábado sus demandas a las calles de Santander.</description>
+      <author>Francisco Bustamante Merino</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/GRAF293-CANT-EDUCACION-PUBLICA.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Varios accidentes con ciclistas dejan diversos heridos, uno muy grave</title>
+      <link>https://efe.com/navarra/2026-09-05/varios-accidentes-con-ciclistas-dejan-diversos-heridos-uno-muy-grave/</link>
+      <guid isPermaLink="true">https://efe.com/navarra/2026-09-05/varios-accidentes-con-ciclistas-dejan-diversos-heridos-uno-muy-grave/</guid>
+      <pubDate>Sat, 05 Sep 2026 15:30:29 +0000</pubDate>
+      <category>Navarra</category>
+      <description>Varios ciclistas han resultado heridos, uno de ellos muy grave, en sendos accidentes ocurridos en Navarra este sábado</description>
+      <author>María Montoya</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/5-bici.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Flex, el satélite que estudia la fotosíntesis, y un nuevo Sentinel despegarán este mes</title>
+      <link>https://efe.com/euro-efe/2026-09-05/mision-esa-flex-fotosintesis-sentinel/</link>
+      <guid isPermaLink="true">https://efe.com/euro-efe/2026-09-05/mision-esa-flex-fotosintesis-sentinel/</guid>
+      <pubDate>Sat, 05 Sep 2026 15:01:00 +0000</pubDate>
+      <category>Ciencia y Tecnología</category>
+      <description>La misión europea Flex será lanzada a mediados de mes junto al nuevo satélite Sentinel para la observación de la Tierra.</description>
+      <author>Sandra Municio</author>
+      <enclosure url="https://i0.wp.com/efe.com/wp-content/uploads/2026/09/Flex-el-satelite-que-estudia-la-fotosintesis-y-un-nuevo-Sentinel-despegaran.webp?fit=900%2C767&amp;ssl=1" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EE.UU. e Irán intercambian ataques en Ormuz contra petroleros, portaviones y buques de guerra</title>
+      <link>https://efe.com/mundo/2026-09-05/eeuu-iran-ataque-petrolero-misiles/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-05/eeuu-iran-ataque-petrolero-misiles/</guid>
+      <pubDate>Sat, 05 Sep 2026 15:00:26 +0000</pubDate>
+      <category>Mundo</category>
+      <description>El Ejército de EE.UU. ataca tres petroleros iraníes después de que el CGRI lanzara misiles contra dos buques de la Armada estadounidense.</description>
+      <author>María Abad</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/XAH03-EAU-OMAN-ESTRECHO.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La gasolina registra precios históricos en EE.UU. durante la festividad del fin del verano</title>
+      <link>https://efe.com/economia/2026-09-05/gasolina-precio-eeuu-fin-verano/</link>
+      <guid isPermaLink="true">https://efe.com/economia/2026-09-05/gasolina-precio-eeuu-fin-verano/</guid>
+      <pubDate>Sat, 05 Sep 2026 13:45:55 +0000</pubDate>
+      <category>Economía y empresas</category>
+      <description>El precio promedio de la gasolina en EE.UU. registró el récord histórico de unos 4,14 dólares por galón (3,785 litros) este fin de semana.</description>
+      <author>María Abad</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/AME4489-EEUU-COMBUSTIBLE.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Trump 2.0: el Gobierno a golpe de amenazas maximalistas a países, aliados e instituciones</title>
+      <link>https://efe.com/mundo/2026-09-05/trump-gobierno-amenazas-paises-aliados/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-05/trump-gobierno-amenazas-paises-aliados/</guid>
+      <pubDate>Sat, 05 Sep 2026 13:32:16 +0000</pubDate>
+      <category>Mundo</category>
+      <description>La última amenaza de Donald Trump consiste en imponer posibles embargos comerciales para presionar a la Fed a bajar los tipos de interés.</description>
+      <author>María Abad</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/USA-GOVERNMENT.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ayuso jura que el dinero de los madrileños no se toca y que quien "lo toque lo va a pagar"</title>
+      <link>https://efe.com/espana/2026-09-05/ayuso-dinero-madrilenos-no-se-toca/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-05/ayuso-dinero-madrilenos-no-se-toca/</guid>
+      <pubDate>Sat, 05 Sep 2026 13:05:11 +0000</pubDate>
+      <category>Comunidad de Madrid</category>
+      <description>La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha dicho este sábado que "el dinero de los madrileños no se toca".</description>
+      <author>María Abad</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/GRAF246-ESPANA-PARTIDOS-PP.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gasly firma la 'pole', por delante de Russell, Piastri saldrá sexto en Monza por sanción</title>
+      <link>https://efe.com/deportes/2026-09-05/formula-uno-entrenamientos-gran-premio-italia/</link>
+      <guid isPermaLink="true">https://efe.com/deportes/2026-09-05/formula-uno-entrenamientos-gran-premio-italia/</guid>
+      <pubDate>Sat, 05 Sep 2026 12:18:56 +0000</pubDate>
+      <category>Deportes</category>
+      <description>El francés Pierre Gasly (Alpine) protagonizó la sorpresa de la jornada en Monza y saldrá desde la pole en el Gran Premio de Italia.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/EPA031-ITALY-FORMULA-ONE.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Netanyahu acusa a su seguridad de no despertarlo el 7-O y su mujer insinúa una traición</title>
+      <link>https://efe.com/mundo/2026-09-05/netanyahu-acusa-seguridad-no-despertarlo-el-7-o-y/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-05/netanyahu-acusa-seguridad-no-despertarlo-el-7-o-y/</guid>
+      <pubDate>Sat, 05 Sep 2026 12:16:01 +0000</pubDate>
+      <category>Mundo</category>
+      <description>Benjamín Netanyahu ha desatado una fuerte polémica en Israel al acusar a altos mandos de decidir no despertarlo la madrugada del 7 de octubre</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/netan.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Muere una mujer corneada por un toro en el encierro en Ayna (Albacete)</title>
+      <link>https://efe.com/espana/2026-09-05/muere-mujer-corneada-toro-encierro-ayna-albacete/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-05/muere-mujer-corneada-toro-encierro-ayna-albacete/</guid>
+      <pubDate>Sat, 05 Sep 2026 12:03:34 +0000</pubDate>
+      <category>Castilla-La Mancha</category>
+      <description>Una mujer de 64 años ha muerto este sábado tras resultar herida por asta de toro en un encierro en Ayna (Albacete).</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/tyorto.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Los indígenas colombianos wounaan: desplazados por la guerrilla y sin colegio por el terremoto</title>
+      <link>https://efe.com/mundo/2026-09-05/indigenas-colombianos-wounaan-desplazados-guerrilla-destruccion-colegio-terremoto/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-05/indigenas-colombianos-wounaan-desplazados-guerrilla-destruccion-colegio-terremoto/</guid>
+      <pubDate>Sat, 05 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Mundo</category>
+      <description>Los indígenas colombianos wounaan recuerdan dos momentos de terror en su historia reciente: el desplazamiento por la guerrilla y el terremoto.</description>
+      <author>Christian Sandoval</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/Indigenas_Wounaan_Colombia.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Kenneth Branagh explora la intimidad masculina entre acción y comedia en plena Guerra Fría</title>
+      <link>https://efe.com/cultura/2026-09-05/kenneth-branagh-estreno-mayday-apple-tv/</link>
+      <guid isPermaLink="true">https://efe.com/cultura/2026-09-05/kenneth-branagh-estreno-mayday-apple-tv/</guid>
+      <pubDate>Sat, 05 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Cultura</category>
+      <description>El estreno de 'Mayday', la nueva comedia de acción de Kenneth Branagh y Ryan Reynolds, explora cómo dos personas acostumbradas a esconder sus emociones aprenden a confiar la una en la otra en plena Guerra Fría.</description>
+      <author>Valentina Chaparro Rincón</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/kenneth-branagh-explora-intimidad-masculina-accion-comedia-guerra-fria.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El mexicano que convirtió 30 años en Estados Unidos en la plataforma 'Retache' para otros retornados</title>
+      <link>https://efe.com/mundo/2026-09-05/mexicano-plataforma-retache-estados-unidos/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-05/mexicano-plataforma-retache-estados-unidos/</guid>
+      <pubDate>Sat, 05 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Mundo</category>
+      <description>Después de vivir 30 años en Estados Unidos, un mexicano con ciudadanía estadounidense regresó voluntariamente a su país natal y creó 'Retache'</description>
+      <author>Andres Alfonso Romero Cuesta</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/mexicano_retache.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El acuerdo petrolero entre Venezuela y Estados Unidos, entre grandes promesas e incógnitas</title>
+      <link>https://efe.com/economia/2026-09-05/acuerdo-petrolero-venezuela-estados-unidos-grandes-promesas-incognitas/</link>
+      <guid isPermaLink="true">https://efe.com/economia/2026-09-05/acuerdo-petrolero-venezuela-estados-unidos-grandes-promesas-incognitas/</guid>
+      <pubDate>Sat, 05 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Economía y empresas</category>
+      <description>El histórico acuerdo petrolero entre Venezuela y Estados Unidos, pese a los beneficios prometidos, es visto con cautela por varios expertos.</description>
+      <author>Christian Sandoval</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/Barco_petrolero_Venezuela-1.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>82-73. Las imprecisiones condenan a España ante una combativa Mali</title>
+      <link>https://efe.com/deportes/2026-09-05/espana-mali-mundial-baloncesto/</link>
+      <guid isPermaLink="true">https://efe.com/deportes/2026-09-05/espana-mali-mundial-baloncesto/</guid>
+      <pubDate>Sat, 05 Sep 2026 11:55:39 +0000</pubDate>
+      <category>Deportes</category>
+      <description>La selección española cayó ante una dura Mali (82-73), que planteó un encuentro muy incómodo desde el inicio.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/espana-malic.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Javier García presenta su precandidatura para "liderar un tiempo nuevo en La Rioja"</title>
+      <link>https://efe.com/la-rioja/2026-09-05/javier-garcia-presenta-su-precandidatura-para-liderar-un-tiempo-nuevo-en-la-rioja/</link>
+      <guid isPermaLink="true">https://efe.com/la-rioja/2026-09-05/javier-garcia-presenta-su-precandidatura-para-liderar-un-tiempo-nuevo-en-la-rioja/</guid>
+      <pubDate>Sat, 05 Sep 2026 11:46:11 +0000</pubDate>
+      <category>La Rioja</category>
+      <description>Javier García, líder del PSOE riojano, formaliza su precandidatura para presidir La Rioja y promete una alternativa al PP en 2027.</description>
+      <author>Rebeca Palacios</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/01/GRAF1744-LR-PARTIDOS-PSOE.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La estación Logroño-Aeropuerto registra 40,5 grados, un récord para un mes de septiembre</title>
+      <link>https://efe.com/la-rioja/2026-09-05/la-estacion-logrono-aeropuerto-registra-405-grados-un-record-para-un-mes-de-septiembre/</link>
+      <guid isPermaLink="true">https://efe.com/la-rioja/2026-09-05/la-estacion-logrono-aeropuerto-registra-405-grados-un-record-para-un-mes-de-septiembre/</guid>
+      <pubDate>Sat, 05 Sep 2026 11:41:04 +0000</pubDate>
+      <category>La Rioja</category>
+      <description>La Aemet confirma 40,5 grados en Logroño-Aeropuerto, récord de septiembre. Haro y Cenicero rozan 39,9 y otras zonas superan 38.</description>
+      <author>Rebeca Palacios</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/07/GRAF2698-ESPANA-OLA-CALOR.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Valdezcaray, reconocida por la Real Federación de Deportes de Invierno por sus 50 años</title>
+      <link>https://efe.com/la-rioja/2026-09-05/valdezcaray-reconocida-por-la-real-federacion-de-deportes-de-invierno-por-sus-50-anos/</link>
+      <guid isPermaLink="true">https://efe.com/la-rioja/2026-09-05/valdezcaray-reconocida-por-la-real-federacion-de-deportes-de-invierno-por-sus-50-anos/</guid>
+      <pubDate>Sat, 05 Sep 2026 11:31:36 +0000</pubDate>
+      <category>La Rioja</category>
+      <description>Valdezcaray (La Rioja) recibe la placa al mérito deportivo de la RFEDI por 50 años impulsando el esquí, tras una temporada récord.</description>
+      <author>Rebeca Palacios</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2025/12/GRAF540-ESPANA-NIEVE.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Feijóo arremete contra Sánchez por adoptar el "modelo de Junqueras" para su supervivencia</title>
+      <link>https://efe.com/espana/2026-09-05/feijoo-inicio-curso-politico-pp/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-05/feijoo-inicio-curso-politico-pp/</guid>
+      <pubDate>Sat, 05 Sep 2026 11:30:14 +0000</pubDate>
+      <category>Comunidad de Madrid</category>
+      <description>El presidente del Partido Popular, Alberto Núñez Feijóo, ha arremetido este sábado contra el jefe del Ejecutivo, Pedro Sánchez.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/pp.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El vicepresidente de Canarias alerta de un repunte migratorio y pide el cierre de frontera</title>
+      <link>https://efe.com/canarias/2026-09-05/el-vicepresidente-de-canarias-alerta-de-un-repunte-migratorio-y-pide-el-cierre-de-frontera/</link>
+      <guid isPermaLink="true">https://efe.com/canarias/2026-09-05/el-vicepresidente-de-canarias-alerta-de-un-repunte-migratorio-y-pide-el-cierre-de-frontera/</guid>
+      <pubDate>Sat, 05 Sep 2026 11:21:16 +0000</pubDate>
+      <category>Canarias</category>
+      <description>Santa Cruz de Tenerife, 05 sep (EFE).- El vicepresidente del Gobierno de Canarias y presidente regional del PP, Manuel Domínguez, ha advertido este sábado del incremento de las llegadas de pateras y cayucos al archipiélago y ha reclamado al Gobierno de España que «cierre las fronteras» para evitar una crisis migratoria como la de los ... Leer más</description>
+      <author>Agencia EFE</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/rss-efec105a765ced34ba584e5fc3d1141b0d8321380a6w.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Fúnez (PP): Primero hay que hablar de retorno que de reparto de menores desde Ceuta</title>
+      <link>https://efe.com/canarias/2026-09-05/funez-pp-primero-hay-que-hablar-de-retorno-que-de-reparto-de-menores-desde-ceuta/</link>
+      <guid isPermaLink="true">https://efe.com/canarias/2026-09-05/funez-pp-primero-hay-que-hablar-de-retorno-que-de-reparto-de-menores-desde-ceuta/</guid>
+      <pubDate>Sat, 05 Sep 2026 11:21:13 +0000</pubDate>
+      <category>Canarias</category>
+      <description>Santa Cruz de Tenerife, 05 sep (EFE).- La vicesecretaria nacional de Sanidad y Política Social del PP, Carmen Fúnez, ha defendido este sábado que los menores que permanecen en Ceuta tras su entrada irregular desde Marruecos deben ser retornados antes de plantear su reparto entre otras comunidades, porque, a su juicio, es la opción que ... Leer más</description>
+      <author>Agencia EFE</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/rss-efe3271baa2ebbb97d934015eed5cd0d35e02354ec7w.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Pogacar no correrá más esta temporada y amplía contrato con el UAE hasta 2032</title>
+      <link>https://efe.com/deportes/2026-09-05/pogacar-amplia-contrato-uae/</link>
+      <guid isPermaLink="true">https://efe.com/deportes/2026-09-05/pogacar-amplia-contrato-uae/</guid>
+      <pubDate>Sat, 05 Sep 2026 10:55:24 +0000</pubDate>
+      <category>Deportes</category>
+      <description>El ciclista esloveno Tadej Pogacar no volverá a correr más esta temporada y amplía contrato con el UAE hasta 2032.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/pogacar.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Belarra pide empatía con las víctimas de Ceuta y avisa a Sánchez que allí "cava su tumba"</title>
+      <link>https://efe.com/espana/2026-09-05/belarra-consejo-ciudadano-estatal-podemos/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-05/belarra-consejo-ciudadano-estatal-podemos/</guid>
+      <pubDate>Sat, 05 Sep 2026 10:49:46 +0000</pubDate>
+      <category>España</category>
+      <description>La secretaria general de Podemos, Ione Belarra, ha alertado de que a finales de julio en Ceuta "más de 180 personas perdieron la vida".</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/belarra.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Así fue el minuto a minuto de los atentados del 11S, de los que se cumplen ahora 25 años</title>
+      <link>https://efe.com/espana/2026-09-05/minuto-a-minuto-atentados-11s/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-05/minuto-a-minuto-atentados-11s/</guid>
+      <pubDate>Sat, 05 Sep 2026 10:38:29 +0000</pubDate>
+      <category>España</category>
+      <description>El próximo 11 de septiembre se cumplen 25 años del 11S, el atentado terrorista más grave registrado en Estados Unidos.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/genelas.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El Gobierno toma el control del Puerto de Ceuta para alojar a los migrantes</title>
+      <link>https://efe.com/espana/2026-09-05/gobierno-acondiciona-nueva-explanada-ceuta-migrantes/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-05/gobierno-acondiciona-nueva-explanada-ceuta-migrantes/</guid>
+      <pubDate>Sat, 05 Sep 2026 09:53:55 +0000</pubDate>
+      <category>España</category>
+      <description>El Gobierno continúa con las labores en Ceuta para acondicionar determinadas áreas con el objetivo de albergar a los cientos de migrantes.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/ceutaa.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Interceptados 56 migrantes llegados en cuatro pateras a Mallorca, Cabrera y Formentera</title>
+      <link>https://efe.com/espana/2026-09-05/interceptados-migrantes-mallorca-cabrera/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-05/interceptados-migrantes-mallorca-cabrera/</guid>
+      <pubDate>Sat, 05 Sep 2026 09:51:00 +0000</pubDate>
+      <category>España</category>
+      <description>56 migrantes de origen magrebí han sido interceptados este sábado tras alcanzar las costas de Baleares a bordo de dos patera</description>
+      <author>Agencia EFE</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/rss-efe662d346b0e2f586f480ad28e947a0c6aea619537w.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Un avión especial de EE.UU. aterriza en Moscú supuestamente con los emisarios de Trump</title>
+      <link>https://efe.com/mundo/2026-09-05/emisarios-eeuu-negociaciones-rusia-ucrania/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-05/emisarios-eeuu-negociaciones-rusia-ucrania/</guid>
+      <pubDate>Sat, 05 Sep 2026 09:45:04 +0000</pubDate>
+      <category>Mundo</category>
+      <description>Un avión especial procedente de Estados Unidos aterrizó este sábado en Moscú, supuestamente con Witkoff y Kushner.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/avion.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Calor, tormentas o lluvia ponen en aviso a 15 comunidades, cinco en alerta naranja</title>
+      <link>https://efe.com/espana/2026-09-05/calor-tormentas-lluvia-aviso-15-comunidades/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-05/calor-tormentas-lluvia-aviso-15-comunidades/</guid>
+      <pubDate>Sat, 05 Sep 2026 09:27:51 +0000</pubDate>
+      <category>Andalucía</category>
+      <description>La Agencia Estatal de Meteorología (Aemet) activa este sábado avisos por altas temperaturas, tormentas o lluvias.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/calor-3.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Lamine Yamal no se entrena con el grupo en la víspera del partido ante el Valencia</title>
+      <link>https://efe.com/deportes/2026-09-05/lamine-yamal-no-entrena-con-grupo/</link>
+      <guid isPermaLink="true">https://efe.com/deportes/2026-09-05/lamine-yamal-no-entrena-con-grupo/</guid>
+      <pubDate>Sat, 05 Sep 2026 09:21:41 +0000</pubDate>
+      <category>Cataluña</category>
+      <description>El atacante barcelonista Lamine Yamal no se entrena junto con el resto de la plantilla, en la víspera del encuentro ante el Valencia.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/yamal.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Un grupo de manifestantes encapuchados bloquea el acceso al puerto inglés de Dover</title>
+      <link>https://efe.com/mundo/2026-09-05/bloqueo-puerto-dover/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-05/bloqueo-puerto-dover/</guid>
+      <pubDate>Sat, 05 Sep 2026 09:18:11 +0000</pubDate>
+      <category>EuroEFE</category>
+      <description>Un grupo de manifestantes encapuchados ha bloqueado este sábado los accesos al puerto de Dover, en el sureste de Inglaterra.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/dover.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Farage clausura un congreso anual dominado por acusaciones de financiación irregular</title>
+      <link>https://efe.com/mundo/2026-09-05/farage-clausura-congreso-anual/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-05/farage-clausura-congreso-anual/</guid>
+      <pubDate>Sat, 05 Sep 2026 08:48:47 +0000</pubDate>
+      <category>EuroEFE</category>
+      <description>El líder de Reform UK, Nigel Farage, pronunciará este sábado el discurso de clausura del congreso anual de la formación populista.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/farage-1.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La Guardia Civil detiene en Alicante a un matrimonio por trata y libera a dos víctimas</title>
+      <link>https://efe.com/comunidad-valenciana/2026-09-05/la-guardia-civil-detiene-en-alicante-a-un-matrimonio-por-trata-y-libera-a-dos-victimas/</link>
+      <guid isPermaLink="true">https://efe.com/comunidad-valenciana/2026-09-05/la-guardia-civil-detiene-en-alicante-a-un-matrimonio-por-trata-y-libera-a-dos-victimas/</guid>
+      <pubDate>Sat, 05 Sep 2026 08:48:11 +0000</pubDate>
+      <category>Comunidad Valenciana</category>
+      <description>La Guardia Civil ha detenido en Callosa de Segura (Alicante) a un matrimonio por trata de seres humanos con fines de explotación sexual y detención ilegal y ha liberado a dos víctimas.</description>
+      <author>Agencia EFE</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/GRAF6116-ESPANA-GUARDIA-CIVIL.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Octubre de requisitos extra para los patinetes: casco, chaleco y ser mayor de 15 años</title>
+      <link>https://efe.com/espana/2026-09-05/octubre-requisitos-extra-patinetes/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-05/octubre-requisitos-extra-patinetes/</guid>
+      <pubDate>Sat, 05 Sep 2026 08:40:01 +0000</pubDate>
+      <category>Economía y empresas</category>
+      <description>Casco obligatorio, chaleco reflectante para casos de baja visibilidad y tener más de 15 años, nuevos requisitos para patinetes.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/patinetes.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La réplica de un drakkar vikingo de 28 metros de eslora recala en Pasaia</title>
+      <link>https://efe.com/pais-vasco/2026-09-05/la-replica-de-un-drakkar-vikingo-de-28-metros-de-eslora-recala-en-pasaia/</link>
+      <guid isPermaLink="true">https://efe.com/pais-vasco/2026-09-05/la-replica-de-un-drakkar-vikingo-de-28-metros-de-eslora-recala-en-pasaia/</guid>
+      <pubDate>Sat, 05 Sep 2026 08:39:26 +0000</pubDate>
+      <category>País Vasco</category>
+      <description>La réplica de un drakkar vikingo de 28 metros de eslora, de nombre 'Orkan', recala en la bahía guipuzcoana de Pasaia</description>
+      <author>Carlos López Izquierdo</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/GRAFCAV8094-FOTODELDIA-ESPANA-DRAKKAR-PASAIA-1024x683.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El Gobierno adoptará medidas para evitar el "estrés" de los sanitarios en Ceuta</title>
+      <link>https://efe.com/espana/2026-09-05/gobierno-sanitarios-ceuta/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-05/gobierno-sanitarios-ceuta/</guid>
+      <pubDate>Sat, 05 Sep 2026 08:23:05 +0000</pubDate>
+      <category>España</category>
+      <description>El SAE ha asegurado que el Gobierno ha decidido adoptar una serie de medidas para evitar el "estrés" de los sanitarios en Ceuta.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/ceuta-5.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Los bancos centrales se preparan para subir tipos ante inflación por encima de lo previsto</title>
+      <link>https://efe.com/economia/2026-09-05/bancos-centrales-subida-tipos-interes-inflacion/</link>
+      <guid isPermaLink="true">https://efe.com/economia/2026-09-05/bancos-centrales-subida-tipos-interes-inflacion/</guid>
+      <pubDate>Sat, 05 Sep 2026 08:16:01 +0000</pubDate>
+      <category>Economía y empresas</category>
+      <description>Los bancos centrales se preparan este septiembre para posibles subidas de tipos ante una inflación por encima de las estimaciones.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/central.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El Gobierno sigue adelante con los presupuestos sin plazos ni apoyos claros</title>
+      <link>https://efe.com/economia/2026-09-05/gobierno-sigue-adelante-presupuestos/</link>
+      <guid isPermaLink="true">https://efe.com/economia/2026-09-05/gobierno-sigue-adelante-presupuestos/</guid>
+      <pubDate>Sat, 05 Sep 2026 08:01:03 +0000</pubDate>
+      <category>Economía y empresas</category>
+      <description>El Gobierno ha insistido esta semana en que mantiene su compromiso de presentar el proyecto de presupuestos para el próximo año.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/presupuestos.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Macron recibirá a los presidentes de Corea del Sur y Vietnam con la idea de diversificar socios</title>
+      <link>https://efe.com/euro-efe/2026-09-05/macron-visitas-presidentes-vietnam-corea-sur/</link>
+      <guid isPermaLink="true">https://efe.com/euro-efe/2026-09-05/macron-visitas-presidentes-vietnam-corea-sur/</guid>
+      <pubDate>Sat, 05 Sep 2026 08:01:00 +0000</pubDate>
+      <category>EuroEFE</category>
+      <description>El presidente de Francia, Emmanuel Macron, recibirá a los presidentes de Corea del Sur y de Vietnam con la idea de diversificar socios.</description>
+      <author>Sandra Municio</author>
+      <enclosure url="https://i0.wp.com/efe.com/wp-content/uploads/2026/09/Macron-recibe-a-los-presidentes-de-Corea-del-Sur-y-Vietnam-con-idea-de-diversificar-socios.webp?fit=900%2C600&amp;ssl=1" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Concluyen las negociaciones sobre Ucrania entre Putin y los emisarios de la Casa Blanca</title>
+      <link>https://efe.com/mundo/2026-09-05/ucrania-rusia-guerra-ataque-dnipropetrovsk/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-05/ucrania-rusia-guerra-ataque-dnipropetrovsk/</guid>
+      <pubDate>Sat, 05 Sep 2026 07:48:58 +0000</pubDate>
+      <category>Mundo</category>
+      <description>Un ataque ruso con misiles contra una empresa industrial en Kamianske, en la región ucraniana de Dnipropetrovsk, causó cuatro muertos.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/OBJ_20260905T190338S0014I_1_1_1_47_3_1.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ciberacosadores de niños, niñas y adolescentes piden imágenes íntimas al inicio del chat</title>
+      <link>https://efe.com/comunidad-valenciana/2026-09-05/ciberacosadores-de-ninos-ninas-y-adolescentes-piden-imagenes-intimas-al-inicio-del-chat/</link>
+      <guid isPermaLink="true">https://efe.com/comunidad-valenciana/2026-09-05/ciberacosadores-de-ninos-ninas-y-adolescentes-piden-imagenes-intimas-al-inicio-del-chat/</guid>
+      <pubDate>Sat, 05 Sep 2026 07:33:11 +0000</pubDate>
+      <category>Comunidad Valenciana</category>
+      <description>Las personas que ciberacosan a niños, niñas y adolescentes en internet suelen pedir imágenes íntimas en los primeros minutos de conversación.</description>
+      <author>Agencia EFE</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/rss-efebd3e4d00d24bbde731f4429948ae572b13f46fbfw.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Detenido el sospechoso de haber matado a disparos a un taxista en Azpeitia (Guipúzcoa)</title>
+      <link>https://efe.com/espana/2026-09-05/detenido-sospechoso-muerte-taxista-azpeitia/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-05/detenido-sospechoso-muerte-taxista-azpeitia/</guid>
+      <pubDate>Sat, 05 Sep 2026 07:08:26 +0000</pubDate>
+      <category>España</category>
+      <description>El sospechoso de haber matado a un joven taxista en Azpeitia (Guipúzcoa) ha sido detenido por la Ertzaintza.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/azpeitia.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El BOE publica la orden que prórroga otros 15 días los controles a los viajeros de Italia</title>
+      <link>https://efe.com/espana/2026-09-05/boe-prorroga-controles-viajeros-italia/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-05/boe-prorroga-controles-viajeros-italia/</guid>
+      <pubDate>Sat, 05 Sep 2026 06:49:20 +0000</pubDate>
+      <category>España</category>
+      <description>El BOE publica la orden que prórroga otros 15 días los controles a los viajeros de Italia, hasta el día 22 de septiembre.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/italia.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Zarzuela y Moncloa, ante el reto de la histórica visita del rey a Ceuta</title>
+      <link>https://efe.com/espana/2026-09-05/zarzuela-moncloa-visita-ceuta/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-05/zarzuela-moncloa-visita-ceuta/</guid>
+      <pubDate>Sat, 05 Sep 2026 06:38:21 +0000</pubDate>
+      <category>España</category>
+      <description>La Casa Real y el Gobierno trabajan en la visita de Felipe VI a Ceuta que, según anunció el presidente del ejecutivo, Pedro Sánchez.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/ceuta-4.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La Fiscalía dice que la Audiencia Nacional es competente para investigar la crisis de Ceuta</title>
+      <link>https://efe.com/espana/2026-09-05/ceuta-audiencia-nacional-fiscalia/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-05/ceuta-audiencia-nacional-fiscalia/</guid>
+      <pubDate>Sat, 05 Sep 2026 06:00:00 +0000</pubDate>
+      <category>España</category>
+      <description>Apunta a posibles delitos de favorecimiento de la inmigración irregular, homicidio y lesiones por imprudencia grave y organización o grupo criminal.</description>
+      <author>Belén Mayo</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/ceuta-audiencia-nacional.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La Policía confirma dos muertos y siete desaparecidos en una doble explosión en un cuartel en Bolivia</title>
+      <link>https://efe.com/mundo/2026-09-05/explosion-cuartel-bolivia/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-05/explosion-cuartel-bolivia/</guid>
+      <pubDate>Sat, 05 Sep 2026 05:59:48 +0000</pubDate>
+      <category>Mundo</category>
+      <description>El presidente de Bolivia se solidarizó con las familias afectadas por una doble explosión registrada en un cuartel militar en La Paz.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/bolivia.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Sara Duterte paga la fianza al tribunal que ordenó arrestarla por amenazas a Marcos Jr</title>
+      <link>https://efe.com/mundo/2026-09-05/sara-duterte-tribunal-marcos-jr/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-05/sara-duterte-tribunal-marcos-jr/</guid>
+      <pubDate>Sat, 05 Sep 2026 05:28:18 +0000</pubDate>
+      <category>Mundo</category>
+      <description>La vicepresidenta de Filipinas, Sara Duterte, se personó este sábado ante el tribunal que ordenó arrestarla la víspera.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/duterte-2.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Alcaraz afina su rodaje, Sabalenka convence y segundo adiós de las Williams en el Abierto de Estados Unidos</title>
+      <link>https://efe.com/deportes/2026-09-05/abierto-eeuu-alcaraz-williams/</link>
+      <guid isPermaLink="true">https://efe.com/deportes/2026-09-05/abierto-eeuu-alcaraz-williams/</guid>
+      <pubDate>Sat, 05 Sep 2026 05:14:57 +0000</pubDate>
+      <category>Deportes</category>
+      <description>Carlos Alcaraz superó este viernes la tercera ronda del Abierto de Estados Unidos para citarse con su primer rival de peso.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/alcaraz.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Halloween salta al mundo de los videojuegos para revivir el clásico del terror de los 80</title>
+      <link>https://efe.com/cultura/2026-09-05/halloween-salta-mundo-videojuegos-revivir-clasico-terror-80/</link>
+      <guid isPermaLink="true">https://efe.com/cultura/2026-09-05/halloween-salta-mundo-videojuegos-revivir-clasico-terror-80/</guid>
+      <pubDate>Sat, 05 Sep 2026 05:02:00 +0000</pubDate>
+      <category>Cultura</category>
+      <description>Decir Halloween es evocar el terror de los 80. En concreto la película de 1978 que creó escuela con la icónica máscara blanca de su asesino en serie Myers.</description>
+      <author>Rosa María Corona Gómez</author>
+      <enclosure url="https://i0.wp.com/efe.com/wp-content/uploads/2026/09/VIDEOJUEGOS.webp?fit=900%2C600&amp;ssl=1" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La declaración conjunta resiste como ayuda familiar pese al impacto en el empleo femenino</title>
+      <link>https://efe.com/economia/2026-09-05/declaracion-conjunta-resiste-ayuda-familiar-pese-impacto-empleo-femenino/</link>
+      <guid isPermaLink="true">https://efe.com/economia/2026-09-05/declaracion-conjunta-resiste-ayuda-familiar-pese-impacto-empleo-femenino/</guid>
+      <pubDate>Sat, 05 Sep 2026 05:01:00 +0000</pubDate>
+      <category>Economía y empresas</category>
+      <description>La AIReF considera que la declaración conjunta del IRPF desincentiva el acceso de la mujer al mercado laboral.</description>
+      <author>Rosa María Corona Gómez</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/irpf.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>España fue el segundo mayor productor de cerveza de la UE en 2025</title>
+      <link>https://efe.com/euro-efe/2026-09-05/espana-productor-cerveza-ue/</link>
+      <guid isPermaLink="true">https://efe.com/euro-efe/2026-09-05/espana-productor-cerveza-ue/</guid>
+      <pubDate>Sat, 05 Sep 2026 05:01:00 +0000</pubDate>
+      <category>Economía y empresas</category>
+      <description>España produjo 5.300 millones de litros de cerveza en 2025, el 15,5 % de la producción comercializada en la UE, solo por detrás de Alemania.</description>
+      <author>Sandra Municio</author>
+      <enclosure url="https://i0.wp.com/efe.com/wp-content/uploads/2026/08/Espana-fue-el-segundo-mayor-productor-de-cerveza-de-la-UE-en-2025.webp?fit=900%2C600&amp;ssl=1" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
