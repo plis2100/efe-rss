@@ -5,7 +5,7 @@
     <link>https://efe.com</link>
     <description>Todas las noticias públicas de EFE, incluidas Economía, empresas, España, Mundo y Europa.</description>
     <language>es-ES</language>
-    <lastBuildDate>Tue, 08 Sep 2026 11:20:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:45:58 +0000</lastBuildDate>
     <item>
       <title>Bruselas enviará una "misión técnica" a Ceuta esta semana para "analizar la situación"</title>
       <link>https://efe.com/euro-efe/2026-09-08/mision-ue-ceuta/</link>
@@ -197,6 +197,26 @@
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/pisa-ters.webp" type="image/jpeg" />
     </item>
     <item>
+      <title>Wimbledon no acreditará a 'influencers'</title>
+      <link>https://efe.com/deportes/2026-09-08/wimbledon-no-acreditara-influencers/</link>
+      <guid isPermaLink="true">https://efe.com/deportes/2026-09-08/wimbledon-no-acreditara-influencers/</guid>
+      <pubDate>Tue, 08 Sep 2026 09:50:30 +0000</pubDate>
+      <category>Deportes</category>
+      <description>El torneo de Wimbledon no acreditará a 'influencers' y se desmarcará de esta manera de las polémicas surgidas en el Abierto de Estados Unidos.</description>
+      <author>Rocío Casas Aparicio</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/Wimbledon-influencers.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Feijóo no espera nada de los informes del CNI sobre Ceuta porque están "recortados"</title>
+      <link>https://efe.com/espana/2026-09-08/pp-vox-desclasificacion-informes-cni-ceuta/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-08/pp-vox-desclasificacion-informes-cni-ceuta/</guid>
+      <pubDate>Tue, 08 Sep 2026 09:44:19 +0000</pubDate>
+      <category>España</category>
+      <description>"Nada. Esos informes están recortados", ha afirmado el presidente del PP sobre la desclasificación de los informes.</description>
+      <author>Belén Mayo</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/feijoo-cni.webp" type="image/jpeg" />
+    </item>
+    <item>
       <title>Hungría expulsa a 10 empleados de la embajada rusa en Budapest</title>
       <link>https://efe.com/euro-efe/2026-09-08/embajada-hungria-rusia/</link>
       <guid isPermaLink="true">https://efe.com/euro-efe/2026-09-08/embajada-hungria-rusia/</guid>
@@ -305,6 +325,26 @@
       <description>La Guardia Civil y la Agencia Tributaria han interceptado en Sevilla 1.283 kilogramos de cocaína ocultos en un cargamento de cocos.</description>
       <author>Luis Ortega</author>
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/GRAF6116-ESPANA-GUARDIA-CIVIL.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El Consell ratifica la subida de sueldo a los docentes, que cobrarán 75 euros más este mes</title>
+      <link>https://efe.com/comunidad-valenciana/2026-09-08/el-consell-ratifica-la-subida-de-sueldo-a-los-docentes/</link>
+      <guid isPermaLink="true">https://efe.com/comunidad-valenciana/2026-09-08/el-consell-ratifica-la-subida-de-sueldo-a-los-docentes/</guid>
+      <pubDate>Tue, 08 Sep 2026 08:54:13 +0000</pubDate>
+      <category>Comunidad Valenciana</category>
+      <description>El Gobierno valenciano ha ratificado la subida salarial para los docentes pactada con los sindicatos ANPE y CSIF para el profesorado no universitario, que empezará a recibir 75 euros más en su nómina este mes de septiembre.</description>
+      <author>Agencia EFE</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/rss-efeabfc2c0a88995154aa95fb0a3bd797da90644a95w.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Madrid logra los mejores resultados de España en la prueba PISA y supera la media europea</title>
+      <link>https://efe.com/comunidad-de-madrid/2026-09-08/madrid-logra-los-mejores-resultados-de-espana-en-la-prueba-pisa-y-supera-la-media-europea/</link>
+      <guid isPermaLink="true">https://efe.com/comunidad-de-madrid/2026-09-08/madrid-logra-los-mejores-resultados-de-espana-en-la-prueba-pisa-y-supera-la-media-europea/</guid>
+      <pubDate>Tue, 08 Sep 2026 08:51:25 +0000</pubDate>
+      <category>Comunidad de Madrid</category>
+      <description>Los estudiantes madrileños han logrado el mejor resultado de España en las pruebas PISA, superando la media de los países de la OCDE y UE.</description>
+      <author>Agencia EFE</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/rss-efe293d1f85420bb53e1ec6ac7af821bf61d665fddaw.webp" type="image/jpeg" />
     </item>
     <item>
       <title>Ikea gana la batalla legal contra un partido extremista belga por el uso de sus marcas</title>
