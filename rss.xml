@@ -5,7 +5,7 @@
     <link>https://efe.com</link>
     <description>Todas las noticias públicas de EFE, incluidas Economía, empresas, España, Mundo y Europa.</description>
     <language>es-ES</language>
-    <lastBuildDate>Thu, 10 Sep 2026 09:21:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 09:47:57 +0000</lastBuildDate>
     <item>
       <title>Yábloko, el único partido político ruso, propone estropear las papeletas donde hayan excluido a sus candidatos</title>
       <link>https://efe.com/mundo/2026-09-10/partido-pacifista-ruso-propuesta/</link>
@@ -55,6 +55,16 @@
       <description>Un matrimonio y sus hijas de 8 y 12 años murieron en un ataque israelí perpetrado contra su casa en el extremo norte de la Franja Gaza.</description>
       <author>Nuria Santesteban</author>
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/gaza-2.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Al menos 4 muertos en un ataque ruso a la infraestructura industrial y portuaria de Mikoláyiv</title>
+      <link>https://efe.com/mundo/2026-09-10/rusia-ucrania-guerra-9/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-10/rusia-ucrania-guerra-9/</guid>
+      <pubDate>Thu, 10 Sep 2026 06:42:45 +0000</pubDate>
+      <category>Mundo</category>
+      <description>Al menos cuatro personas murieron y otras 19 resultaron heridas en ataques rusos contra infraestructura industrial y portuaria de Mikoláyiv.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/UCRANIA-1.webp" type="image/jpeg" />
     </item>
     <item>
       <title>Los hogares pierden 270 euros por cada 10.000 ahorrados debido a la inflación</title>
