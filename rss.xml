@@ -5,7 +5,17 @@
     <link>https://efe.com</link>
     <description>Todas las noticias públicas de EFE, incluidas Economía, empresas, España, Mundo y Europa.</description>
     <language>es-ES</language>
-    <lastBuildDate>Fri, 11 Sep 2026 06:25:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 06:50:37 +0000</lastBuildDate>
+    <item>
+      <title>Sam Altman estudia ralentizar el desarrollo de la IA por OpenAI y espera que otros le imiten</title>
+      <link>https://efe.com/ciencia-y-tecnologia/2026-09-11/openai-ralentizacion-ia/</link>
+      <guid isPermaLink="true">https://efe.com/ciencia-y-tecnologia/2026-09-11/openai-ralentizacion-ia/</guid>
+      <pubDate>Fri, 11 Sep 2026 05:59:45 +0000</pubDate>
+      <category>Ciencia y Tecnología</category>
+      <description>OpenAI está estudiando la posibilidad de ralentizar el desarrollo de la inteligencia artificial (IA) de vanguardia</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/ia-1.webp" type="image/jpeg" />
+    </item>
     <item>
       <title>Cataluña celebra hoy una Diada marcada por la tensión ante el auge de Aliança Catalana</title>
       <link>https://efe.com/espana/2026-09-11/cataluna-celebracion-diada-2/</link>
@@ -35,6 +45,36 @@
       <description>'Prácticamente magia 2', el documental de Oasis y un toque de Navidad en los estrenos de cine para esta semana.</description>
       <author>Rocío Casas Aparicio</author>
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/ESTRENOS-CINE-1.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Rybakina remonta a Gauff y estrena el número uno con pase a la final ante Sabalenka</title>
+      <link>https://efe.com/deportes/2026-09-11/rybakina-gana-gauff-numero-uno-final-sabalenka/</link>
+      <guid isPermaLink="true">https://efe.com/deportes/2026-09-11/rybakina-gana-gauff-numero-uno-final-sabalenka/</guid>
+      <pubDate>Fri, 11 Sep 2026 04:47:58 +0000</pubDate>
+      <category>Deportes</category>
+      <description>Elena Rybakina derrotó a la estadounidense Coco Gauff en tres sets y disputará la final del Abierto de EE.UU. contra la bielorrusa Aryna Sabalenka.</description>
+      <author>Valentina Chaparro Rincón</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/rybakina-remonta-gauff-estrena-numero-1-con-pase-final-contra-sabalenka.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Wall Street cierra en rojo arrastrado por el petróleo tras superar los 100 dólares por barril</title>
+      <link>https://efe.com/economia/2026-09-10/wall-street-cierre-rojo-arrastrado-precio-petroleo-guerra-iran/</link>
+      <guid isPermaLink="true">https://efe.com/economia/2026-09-10/wall-street-cierre-rojo-arrastrado-precio-petroleo-guerra-iran/</guid>
+      <pubDate>Thu, 10 Sep 2026 21:11:24 +0000</pubDate>
+      <category>Economía y empresas</category>
+      <description>Wall Street cerró este jueves en rojo luego de que el precio del petróleo en Estados Unidos superara los 100 dólares por barril.</description>
+      <author>Christian Sandoval</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/Wall_Street_Cierre_Petroleo.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Estados Unidos ofreció petróleo a Cuba a cambio de la salida de Díaz-Canel, según el Miami Herald</title>
+      <link>https://efe.com/mundo/2026-09-10/estados-unidos-salida-diaz-canel-cuba/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-10/estados-unidos-salida-diaz-canel-cuba/</guid>
+      <pubDate>Thu, 10 Sep 2026 21:05:22 +0000</pubDate>
+      <category>Mundo</category>
+      <description>EE.UU. ofreció petróleo a Cuba a cambio de la salida de Miguel Díaz-Canel, según reveló el Miami Herald sobre una propuesta comercial para privatizar Cupet.</description>
+      <author>Andres Alfonso Romero Cuesta</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/canel_renuncia.webp" type="image/jpeg" />
     </item>
     <item>
       <title>Canadá refuerza su cooperación militar con Ucrania y prepara nuevas sanciones contra Rusia</title>
