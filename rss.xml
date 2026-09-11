@@ -5,7 +5,7 @@
     <link>https://efe.com</link>
     <description>Todas las noticias públicas de EFE, incluidas Economía, empresas, España, Mundo y Europa.</description>
     <language>es-ES</language>
-    <lastBuildDate>Fri, 11 Sep 2026 16:21:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:46:03 +0000</lastBuildDate>
     <item>
       <title>La Cueva del Conejar de Cáceres abre al público tras 27 años de investigación</title>
       <link>https://efe.com/extremadura/2026-09-11/cueva-conejar-caceres-investigacion/</link>
@@ -25,6 +25,16 @@
       <description>Nueva York ha celebrado un año más una ceremonia en recuerdo de las víctimas de los atentados del 11S en la Gran Manzana.</description>
       <author>Belén Mayo</author>
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/11s.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Israel mata en Gaza a un comandante de Hamás "fundamental" para el ataque del 7 de octubre</title>
+      <link>https://efe.com/mundo/2026-09-11/israel-mata-gaza-comandante-hamas-7-octubre/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-11/israel-mata-gaza-comandante-hamas-7-octubre/</guid>
+      <pubDate>Fri, 11 Sep 2026 14:21:04 +0000</pubDate>
+      <category>Mundo</category>
+      <description>El Ejército israelí (FDI) anunció este viernes haber matado al comandante de Hamás, "fundamental" en la planificación del 7 de octubre.</description>
+      <author>Beatriz Naya</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/Israel-mata-en-Gaza-a-un-comandante-de-Hamas-fundamental-para-el-ataque-del-7-de-octubre.webp" type="image/jpeg" />
     </item>
     <item>
       <title>Equipos de rescate recuperan 30 cadáveres en la primera inspección del ferri incendiado en Filipinas</title>
@@ -125,6 +135,26 @@
       <description>Ha reclamado que los votantes incorporados al censo en aplicación de la ley de nietos no puedan inscribirse a menos que la última residencia de su ascendiente estuviera en Madrid.</description>
       <author>Belén Mayo</author>
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/ayuso-votantes-exiliados.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bellido pide libertad de voto en el PSOE si la financiación autonómica llega al Congreso</title>
+      <link>https://efe.com/castilla-la-mancha/2026-09-11/bellido-financiacion-autonomica-libertad-voto/</link>
+      <guid isPermaLink="true">https://efe.com/castilla-la-mancha/2026-09-11/bellido-financiacion-autonomica-libertad-voto/</guid>
+      <pubDate>Fri, 11 Sep 2026 12:54:00 +0000</pubDate>
+      <category>Castilla-La Mancha</category>
+      <description>El presidente de las Cortes regionales, Pablo Bellido, pide que se conceda libertad de conciencia a los diputados socialistas si el modelo de financiación autonómica llega a votarse en el Congreso.</description>
+      <author>Cristina Serena Trujillo</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/04/Pablo-Bellido-con-micro-EFE.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Isabel Coixet muestra sus "collages" en San Sebastián: el "arte que no asusta" a la cineasta</title>
+      <link>https://efe.com/pais-vasco/2026-09-11/isabel-coixet-muestra-collages/</link>
+      <guid isPermaLink="true">https://efe.com/pais-vasco/2026-09-11/isabel-coixet-muestra-collages/</guid>
+      <pubDate>Fri, 11 Sep 2026 12:43:14 +0000</pubDate>
+      <category>Cataluña</category>
+      <description>La directora Isabel Coixet cambia de registro para protagonizar una exposición en San Sebastián que reúne una selección de sus "collages".</description>
+      <author>Clara García de Cortazar</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/GRAFCAV8338-CAV-ISABEL-COIXET.webp" type="image/jpeg" />
     </item>
     <item>
       <title>La ingeniería TSK dispara su beneficio en el primer semestre</title>
