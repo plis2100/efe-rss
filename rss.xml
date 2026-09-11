@@ -5,7 +5,7 @@
     <link>https://efe.com</link>
     <description>Todas las noticias públicas de EFE, incluidas Economía, empresas, España, Mundo y Europa.</description>
     <language>es-ES</language>
-    <lastBuildDate>Fri, 11 Sep 2026 06:50:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:21:09 +0000</lastBuildDate>
     <item>
       <title>Sam Altman estudia ralentizar el desarrollo de la IA por OpenAI y espera que otros le imiten</title>
       <link>https://efe.com/ciencia-y-tecnologia/2026-09-11/openai-ralentizacion-ia/</link>
@@ -15,6 +15,26 @@
       <description>OpenAI está estudiando la posibilidad de ralentizar el desarrollo de la inteligencia artificial (IA) de vanguardia</description>
       <author>Nuria Santesteban</author>
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/ia-1.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La Audiencia ratifica la absolución de la tertuliana que llamó 'Begoño' a Begoña Gómez</title>
+      <link>https://efe.com/espana/2026-09-11/begona-gomez-begono-absolucion-tertuliana/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-11/begona-gomez-begono-absolucion-tertuliana/</guid>
+      <pubDate>Fri, 11 Sep 2026 05:33:04 +0000</pubDate>
+      <category>España</category>
+      <description>La Audiencia Provincial de Madrid ha confirmado la absolución de Pilar Baselga, que en noviembre de 2022 llamó 'Begoño' a Begoña Gómez.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/bego.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Putin llega a Nueva Delhi para reunirse con Modi en el arranque de la cumbre de los BRICS</title>
+      <link>https://efe.com/mundo/2026-09-11/india-cumbre-de-los-brics-rusia/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-11/india-cumbre-de-los-brics-rusia/</guid>
+      <pubDate>Fri, 11 Sep 2026 05:29:01 +0000</pubDate>
+      <category>Mundo</category>
+      <description>El presidente de Rusia, Vladímir Putin, llegó esta madrugada a Nueva Delhi para participar en la cumbre de los BRICS.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/putin-5.webp" type="image/jpeg" />
     </item>
     <item>
       <title>Cataluña celebra hoy una Diada marcada por la tensión ante el auge de Aliança Catalana</title>
@@ -47,6 +67,36 @@
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/ESTRENOS-CINE-1.webp" type="image/jpeg" />
     </item>
     <item>
+      <title>Sara García pide autonomía espacial europea y sueña llevar su investigación oncológica a ISS</title>
+      <link>https://efe.com/ciencia-y-tecnologia/2026-09-11/sara-garcia-cumbre-espacial-internacional/</link>
+      <guid isPermaLink="true">https://efe.com/ciencia-y-tecnologia/2026-09-11/sara-garcia-cumbre-espacial-internacional/</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <category>Ciencia y Tecnología</category>
+      <description>Sara García Alonso espera tener pronto la oportunidad de viajar a la Estación Espacial Internacional (ISS).</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/sara.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La sequía amenaza con dejar a Sudán del Sur al borde de la hambruna</title>
+      <link>https://efe.com/mundo/2026-09-11/sequia-sudan-del-sur-hambruna/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-11/sequia-sudan-del-sur-hambruna/</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <category>Mundo</category>
+      <description>Sudán del Sur, el país más joven del mundo, afronta una difícil situación provocada por la sequía y la consecuente escasez de agua.</description>
+      <author>Nuria Santesteban</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/sudansur.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Camilo: "En el corazón no estamos tan radicalizados como políticamente nos hacen creer"</title>
+      <link>https://efe.com/cultura/2026-09-11/cantante-camilo-nuevo-disco-hijas/</link>
+      <guid isPermaLink="true">https://efe.com/cultura/2026-09-11/cantante-camilo-nuevo-disco-hijas/</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+      <category>Cultura</category>
+      <description>Camilo ha dedicado más tiempo que nunca a cultivar 'Para cuando sean mayores', un disco lleno de lecciones de vida para sus dos hijas.</description>
+      <author>Rocío Casas Aparicio</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/disco-camilo.webp" type="image/jpeg" />
+    </item>
+    <item>
       <title>Rybakina remonta a Gauff y estrena el número uno con pase a la final ante Sabalenka</title>
       <link>https://efe.com/deportes/2026-09-11/rybakina-gana-gauff-numero-uno-final-sabalenka/</link>
       <guid isPermaLink="true">https://efe.com/deportes/2026-09-11/rybakina-gana-gauff-numero-uno-final-sabalenka/</guid>
@@ -55,6 +105,266 @@
       <description>Elena Rybakina derrotó a la estadounidense Coco Gauff en tres sets y disputará la final del Abierto de EE.UU. contra la bielorrusa Aryna Sabalenka.</description>
       <author>Valentina Chaparro Rincón</author>
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/rybakina-remonta-gauff-estrena-numero-1-con-pase-final-contra-sabalenka.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Con un credo de lealtad a Trump, los republicanos cierran la convención para ganar las 'midterm'</title>
+      <link>https://efe.com/mundo/2026-09-11/lealtad-trump-discurso-cierre-convencion-republicana/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-11/lealtad-trump-discurso-cierre-convencion-republicana/</guid>
+      <pubDate>Fri, 11 Sep 2026 04:20:23 +0000</pubDate>
+      <category>Mundo</category>
+      <description>Con la mano derecha levantada en un credo de lealtad al presidente de EE.UU., Donald Trump, los republicanos cerraron la Convención Nacional Republicana en Texas.</description>
+      <author>Valentina Chaparro Rincón</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/con-credo-lealtad-trump-republicanos-cierran-convencion.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Trump cierra la convención republicana con un llamado personal a votar en noviembre</title>
+      <link>https://efe.com/mundo/2026-09-11/trump-discurso-cierre-convencion-republicana/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-11/trump-discurso-cierre-convencion-republicana/</guid>
+      <pubDate>Fri, 11 Sep 2026 03:32:25 +0000</pubDate>
+      <category>Mundo</category>
+      <description>El presidente de EE.UU., Donald Trump, cerró la primera convención republicana de mitad de mandato con un llamado a votar en las elecciones de noviembre.</description>
+      <author>Valentina Chaparro Rincón</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/trump-cierra-convencion-republicana-con-llamado-voto-noviembre.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El Supremo de Brasil levanta el secreto de sumario en el caso del mayor fraude bancario del país</title>
+      <link>https://efe.com/mundo/2026-09-11/supremo-brasil-levanta-secreto-sumario-banco-master/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-11/supremo-brasil-levanta-secreto-sumario-banco-master/</guid>
+      <pubDate>Fri, 11 Sep 2026 03:10:47 +0000</pubDate>
+      <category>Mundo</category>
+      <description>El magistrado André Mendonça del Supremo de Brasil levantó el secreto de sumario que pesaba sobre las investigaciones del caso del Banco Master.</description>
+      <author>Valentina Chaparro Rincón</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/supremo-brasil-levanta-secreto-sumario-caso-banco-master.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El vicepresidente de EE.UU. desestima la guerra de Irán como una "cuestión política"</title>
+      <link>https://efe.com/mundo/2026-09-11/jd-vance-convencion-republicana-iran/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-11/jd-vance-convencion-republicana-iran/</guid>
+      <pubDate>Fri, 11 Sep 2026 02:24:30 +0000</pubDate>
+      <category>Mundo</category>
+      <description>El vicepresidente de EE.UU., JD Vance, desestimó las críticas a la guerra en Irán como una "cuestión política", durante la convención republicana.</description>
+      <author>Valentina Chaparro Rincón</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/jd-vance-desestima-guerra-iran-como-cuestion-politica.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>'Huantepeque: El Vengador', un drama mitológico inspirado en la literatura hondureña</title>
+      <link>https://efe.com/cultura/2026-09-11/huantepeque-el-vengador-honduras/</link>
+      <guid isPermaLink="true">https://efe.com/cultura/2026-09-11/huantepeque-el-vengador-honduras/</guid>
+      <pubDate>Fri, 11 Sep 2026 02:24:05 +0000</pubDate>
+      <category>Cultura</category>
+      <description>Coincidiendo con los 1.600 años de la llegada del primer rey maya de Copán, en el oeste de Honduras, K’inich Yax K’uk’ Mo’, la productora Cecilia Durán inició la presentación del cortometraje 'Huantepeque: El vengador'.</description>
+      <author>Alfonso Hernandez</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/OBJ_20260911T013404S0012I_1_1_1_43_3_1.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>James Rodríguez regresa al fútbol colombiano para vestir los colores de Atlético Nacional</title>
+      <link>https://efe.com/deportes/2026-09-11/james-rodriguez-nuevo-jugador-atletico-nacional/</link>
+      <guid isPermaLink="true">https://efe.com/deportes/2026-09-11/james-rodriguez-nuevo-jugador-atletico-nacional/</guid>
+      <pubDate>Fri, 11 Sep 2026 01:52:07 +0000</pubDate>
+      <category>Deportes</category>
+      <description>James Rodríguez regresa al fútbol colombiano con la camiseta de Atlético Nacional, anunció el club, en uno de los fichajes de mayor impacto del campeonato local.</description>
+      <author>Valentina Chaparro Rincón</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/james-rodriguez-regresa-futbol-colombiano-para-vestir-colores-atletico-nacional.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Lula da Silva defiende fijar mandatos limitados en la Corte Suprema de Brasil en plena crisis institucional</title>
+      <link>https://efe.com/english/2026-09-11/lula-corte-suprema-brasil-mandatos/</link>
+      <guid isPermaLink="true">https://efe.com/english/2026-09-11/lula-corte-suprema-brasil-mandatos/</guid>
+      <pubDate>Fri, 11 Sep 2026 01:49:24 +0000</pubDate>
+      <category>English</category>
+      <description>El presidente brasileño, Luiz Inácio Lula da Silva, defendió la implementación de mandatos limitados para los magistrados de la Corte Suprema.</description>
+      <author>Silvia Contreras</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/lula.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Conmebol investiga a Memphis Depay por supuestos gestos obscenos a hinchas de Estudiantes</title>
+      <link>https://efe.com/deportes/2026-09-11/memphis-depay-corinthians-conmebol/</link>
+      <guid isPermaLink="true">https://efe.com/deportes/2026-09-11/memphis-depay-corinthians-conmebol/</guid>
+      <pubDate>Fri, 11 Sep 2026 01:46:12 +0000</pubDate>
+      <category>Deportes</category>
+      <description>La Conmebol confirmó este jueves a EFE que investiga si el neerlandés Memphis Depay, jugador del Corinthians, hizo gestos obscenos a los hinchas de Estudiantes de La Plata.</description>
+      <author>Alfonso Hernandez</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/OBJ_20260626T003547S0012I_1_1_1_43_7_8.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Sabalenka vuelve a eliminar a Pegula y se mete en su cuarta final seguida en Nueva York</title>
+      <link>https://efe.com/deportes/2026-09-11/sabalenka-elimina-pegula-cuarta-final-abierto-estados-unidos/</link>
+      <guid isPermaLink="true">https://efe.com/deportes/2026-09-11/sabalenka-elimina-pegula-cuarta-final-abierto-estados-unidos/</guid>
+      <pubDate>Fri, 11 Sep 2026 01:39:16 +0000</pubDate>
+      <category>Deportes</category>
+      <description>Sabalenka se clasificó para la final del Abierto de EE.UU., su cuarta consecutiva, tras derrotar a Pegula, su víctima favorita en Nueva York.</description>
+      <author>Valentina Chaparro Rincón</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/sabalenka-vuelve-eliminar-pegula-cuarta-final-nueva-york.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Una comisión legislativa aprueba la resolución para ampliar el estado de excepción en Bolivia</title>
+      <link>https://efe.com/mundo/2026-09-11/bolivia-estado-de-excepcion/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-11/bolivia-estado-de-excepcion/</guid>
+      <pubDate>Fri, 11 Sep 2026 01:14:58 +0000</pubDate>
+      <category>Mundo</category>
+      <description>Una comisión de la Cámara de Diputados de Bolivia aprobó este jueves un proyecto de resolución para ampliar el estado de excepción por 90 días</description>
+      <author>Alfonso Hernandez</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/OBJ_20260526T192340S0006I_1_1_1_43_7_6.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Marines de EE.UU. revelan fotos de abordajes a barcos de Ecuador y Ecuador localiza tripulantes que no fueron capturados</title>
+      <link>https://efe.com/mundo/2026-09-11/ecuador-marines-eeuu/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-11/ecuador-marines-eeuu/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:59:25 +0000</pubDate>
+      <category>Mundo</category>
+      <description>Los Marines de EE.UU. difundieron una serie de fotografías de los abordajes practicados en los últimos días a las embarcaciones de Ecuador de pesca en el océano Pacífico</description>
+      <author>Alfonso Hernandez</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/OBJ_20260910T225640S0012I_1_1_1_43_3_1.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La Suprema Corte de México permite el cannabis en alimentos para consumo recreativo</title>
+      <link>https://efe.com/mundo/2026-09-11/suprema-corte-mexico-cannabis-alimentos/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-11/suprema-corte-mexico-cannabis-alimentos/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:52:45 +0000</pubDate>
+      <category>Mundo</category>
+      <description>La Suprema Corte de Justicia de México determinó que las autorizaciones para el consumo de cannabis pueden incluir su preparación en alimentos.</description>
+      <author>Silvia Contreras</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/mex-5.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Exiliados nicaragüenses piden a EE.UU. una intervención militar en Nicaragua</title>
+      <link>https://efe.com/mundo/2026-09-11/exiliados-nicaragua-piden-intervencion-estados-unidos/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-11/exiliados-nicaragua-piden-intervencion-estados-unidos/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:38:08 +0000</pubDate>
+      <category>Mundo</category>
+      <description>La Unidad de Exiliados Nicaragüenses pidió a EE.UU. una intervención militar frente al Gobierno de Nicaragua, que copresiden los esposos Daniel Ortega y Rosario Murillo.</description>
+      <author>Valentina Chaparro Rincón</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/exiliados-piden-eeuu-intervencion-militar-nicaragua.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La oposición de Venezuela prevé abordar con el Chavismo las garantías políticas en un nuevo ciclo de diálogos</title>
+      <link>https://efe.com/mundo/2026-09-11/oposicion-venezuela-garantias-politicas-chavismo/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-11/oposicion-venezuela-garantias-politicas-chavismo/</guid>
+      <pubDate>Thu, 10 Sep 2026 23:53:41 +0000</pubDate>
+      <category>Mundo</category>
+      <description>La comisión opositora en el diálogo con el chavismo planea discutir sobre las garantías políticas cuando arranque el nuevo ciclo de conversaciones.</description>
+      <author>Silvia Contreras</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/vezla.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La estadounidense Frontier Airlines operará en Colombia con vuelos directos desde Orlando</title>
+      <link>https://efe.com/economia/2026-09-11/frontier-airlines-llega-colombia/</link>
+      <guid isPermaLink="true">https://efe.com/economia/2026-09-11/frontier-airlines-llega-colombia/</guid>
+      <pubDate>Thu, 10 Sep 2026 23:10:01 +0000</pubDate>
+      <category>Economía y empresas</category>
+      <description>Frontier Airlines lanzará en diciembre vuelos directos de Orlando a Colombia, operando 14 frecuencias semanales hacia Bogotá, Medellín y Cartagena.</description>
+      <author>Andres Alfonso Romero Cuesta</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/frontier_colombia.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El extremo Juan Guillermo Cuadrado es el nuevo jugador de Millonarios</title>
+      <link>https://efe.com/deportes/2026-09-11/juan-guillermo-cuadrado-nuevo-jugador-millonarios/</link>
+      <guid isPermaLink="true">https://efe.com/deportes/2026-09-11/juan-guillermo-cuadrado-nuevo-jugador-millonarios/</guid>
+      <pubDate>Thu, 10 Sep 2026 23:04:48 +0000</pubDate>
+      <category>Deportes</category>
+      <description>Juan Guillermo Cuadrado fue anunciado como nuevo jugador de Millonarios, club en el que continuará su carrera tras jugar los últimos 11 años en la Serie A italiana.</description>
+      <author>Valentina Chaparro Rincón</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/juan-guillermo-cuadrado-nuevo-jugador-millonarios-1-e1789082718361.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El expresidente ecuatoriano Bucaram apelará la sentencia por fraude de pruebas de covid-19</title>
+      <link>https://efe.com/mundo/2026-09-11/abdala-bucaram-ecuador-apelacion-sentencia/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-11/abdala-bucaram-ecuador-apelacion-sentencia/</guid>
+      <pubDate>Thu, 10 Sep 2026 22:43:06 +0000</pubDate>
+      <category>Mundo</category>
+      <description>El expresidente Abdalá Bucaram pedirá la anulación del juicio por fraude, tras recibir una pena de nueve años de cárcel por la venta de pruebas de covid.</description>
+      <author>Andres Alfonso Romero Cuesta</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/bucaram_prensa.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Nueva York renombrará más calles con nombres de víctimas del 11-S</title>
+      <link>https://efe.com/mundo/2026-09-11/nueva-york-renombra-calles-victimas-11s/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-11/nueva-york-renombra-calles-victimas-11s/</guid>
+      <pubDate>Thu, 10 Sep 2026 22:39:33 +0000</pubDate>
+      <category>Mundo</category>
+      <description>Nueva York aprobó medidas para renombrar calles con nombres de víctimas de los atentados del 11S y pidió que incorporen un programa educativo sobre ese día en las escuelas.</description>
+      <author>Valentina Chaparro Rincón</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/nueva-york-renombrara-calles-nombres-victimas-11s.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>California prohíbe los algoritmos y las funciones adictivas en redes sociales para menores de 16</title>
+      <link>https://efe.com/ciencia-y-tecnologia/2026-09-11/california-prohibe-algoritmos-redes-sociales-menores/</link>
+      <guid isPermaLink="true">https://efe.com/ciencia-y-tecnologia/2026-09-11/california-prohibe-algoritmos-redes-sociales-menores/</guid>
+      <pubDate>Thu, 10 Sep 2026 22:28:10 +0000</pubDate>
+      <category>Ciencia y Tecnología</category>
+      <description>El gobernador de California promulgó un conjunto de leyes para prohibir que las redes sociales puedan ofrecer funciones adictivas a menores de 16 años.</description>
+      <author>Silvia Contreras</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/rrss.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El mundialista mexicano Edson Álvarez niega acusaciones de estar involucrado en un secuestro</title>
+      <link>https://efe.com/deportes/2026-09-11/edson-alvarez-escandalo-mexico/</link>
+      <guid isPermaLink="true">https://efe.com/deportes/2026-09-11/edson-alvarez-escandalo-mexico/</guid>
+      <pubDate>Thu, 10 Sep 2026 22:08:13 +0000</pubDate>
+      <category>Deportes</category>
+      <description>Edson Álvarez, mundialista con la selección de México, emitió este jueves un comunicado en el que niega las acusaciones en las que se le involucra en un secuestro contra el productor Juan José López Ordóñez.</description>
+      <author>Alfonso Hernandez</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/OBJ_20260706T031424S0024I_1_1_1_43_7_8.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El Gobierno de Paraguay deniega las renuncias de centenares de médicos en plena disputa laboral</title>
+      <link>https://efe.com/mundo/2026-09-10/paraguay-deniega-renuncias-medicos/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-10/paraguay-deniega-renuncias-medicos/</guid>
+      <pubDate>Thu, 10 Sep 2026 21:58:19 +0000</pubDate>
+      <category>Mundo</category>
+      <description>El Gobierno de Paraguay denegó las renuncias presentadas por 424 galenos especialistas y subespecialistas en medio de la disputa con el gremio.</description>
+      <author>Silvia Contreras</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/paraguay-1.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El banco brasileño Nu anuncia en Miami su apertura en Estados Unidos y una cuenta digital global</title>
+      <link>https://efe.com/economia/2026-09-10/banco-brasileno-nu-apertura-estados-unidos-cuenta-digital-global/</link>
+      <guid isPermaLink="true">https://efe.com/economia/2026-09-10/banco-brasileno-nu-apertura-estados-unidos-cuenta-digital-global/</guid>
+      <pubDate>Thu, 10 Sep 2026 21:57:37 +0000</pubDate>
+      <category>Economía y empresas</category>
+      <description>El banco digital latinoamericano Nu inició la apertura de operaciones en Estados Unidos, donde presentó también una cuenta digital global.</description>
+      <author>Christian Sandoval</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/Nu_llegada_Estados_Unidos.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>México inicia proceso para las elecciones intermedias de 2027 con 20.000 cargos en disputa</title>
+      <link>https://efe.com/mundo/2026-09-10/mexico-elecciones-2027/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-10/mexico-elecciones-2027/</guid>
+      <pubDate>Thu, 10 Sep 2026 21:48:28 +0000</pubDate>
+      <category>Mundo</category>
+      <description>El Instituto Nacional Electoral (INE) de México inició formalmente este jueves el proceso electoral de cara a las elecciones intermedias de junio de 2027,</description>
+      <author>Alfonso Hernandez</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/OBJ_20240602T193740S0008I_1_299_1_15_7_6.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La producción petrolera de Venezuela se estanca en 1,2 millones de barriles diarios en agosto</title>
+      <link>https://efe.com/economia/2026-09-10/produccion-petroleo-venezuela-agosto/</link>
+      <guid isPermaLink="true">https://efe.com/economia/2026-09-10/produccion-petroleo-venezuela-agosto/</guid>
+      <pubDate>Thu, 10 Sep 2026 21:43:44 +0000</pubDate>
+      <category>Economía y empresas</category>
+      <description>La producción petrolera de Venezuela se estanca en 1,2 millones de barriles diarios, tras registrar en agosto un leve repunte de apenas 1.000 bpd, según la OPEP.</description>
+      <author>Andres Alfonso Romero Cuesta</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/petroleo_exportaciones.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Organizaciones proinmigrantes piden al Gobierno de Trump mantener vigente el TPS a los salvadoreños</title>
+      <link>https://efe.com/mundo/2026-09-10/organizaciones-trump-vigente-tps-salvadorenos/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-10/organizaciones-trump-vigente-tps-salvadorenos/</guid>
+      <pubDate>Thu, 10 Sep 2026 21:29:18 +0000</pubDate>
+      <category>Mundo</category>
+      <description>Organizaciones proinmigrantes pidieron al Gobierno de Donald Trump que prorrogue oficialmente el TPS para los salvadoreños.</description>
+      <author>Silvia Contreras</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/tps.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Una falla en el sistema eléctrico de Centroamérica genera apagón en Guatemala y Honduras</title>
+      <link>https://efe.com/mundo/2026-09-10/apagon-centroamerica-guatemala-honduras/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-10/apagon-centroamerica-guatemala-honduras/</guid>
+      <pubDate>Thu, 10 Sep 2026 21:15:12 +0000</pubDate>
+      <category>Mundo</category>
+      <description>Una falla en el sistema de interconexión eléctrico de Centroamérica, sin causas adjudicadas aún, afectó este jueves en un principio a Honduras y Guatemala, aunque algunas fuentes ampliaron el impacto a El Salvador y Nicaragua, sin que lo confirmaran las autoridades locales.</description>
+      <author>Alfonso Hernandez</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/OBJ_20220525T055921SZ011I_1_1_1_9_7_1.webp" type="image/jpeg" />
     </item>
     <item>
       <title>Wall Street cierra en rojo arrastrado por el petróleo tras superar los 100 dólares por barril</title>
@@ -77,6 +387,46 @@
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/canel_renuncia.webp" type="image/jpeg" />
     </item>
     <item>
+      <title>Iran calls UN nuclear agency’s resolution 'illegal' and 'political'</title>
+      <link>https://efe.com/english/latest-news/2026-09-10/iran-calls-un-nuclear-agencys-resolution-illegal-and-political/</link>
+      <guid isPermaLink="true">https://efe.com/english/latest-news/2026-09-10/iran-calls-un-nuclear-agencys-resolution-illegal-and-political/</guid>
+      <pubDate>Thu, 10 Sep 2026 20:57:23 +0000</pubDate>
+      <category>Latest news</category>
+      <description>Mohsen Rezaei described the resolution passed by the IAEA’s Board of Governors against his country as “illegal” and “political.”</description>
+      <author>Agencia EFE</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/rss-efe4c4af2a3c36102d2373a8b163754b5f3c35b1cd7w.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mark Carney mantiene abierto el diálogo con Trump y anticipa un mayor acercamiento a Europa</title>
+      <link>https://efe.com/mundo/2026-09-10/carney-trump-eeuu-canada-europa/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-10/carney-trump-eeuu-canada-europa/</guid>
+      <pubDate>Thu, 10 Sep 2026 20:31:10 +0000</pubDate>
+      <category>Mundo</category>
+      <description>El primer ministro de Canadá, Mark Carney, afirmó que Canadá sigue dispuesto a alcanzar un acuerdo comercial "justo" con Estados Unidos pese al fracaso de las últimas negociaciones y reveló que ha hablado varias veces en los últimos días con el presidente estadounidense, Donald Trump.</description>
+      <author>Alfonso Hernandez</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/OBJ_20251007T173403S0008I_1_1_1_43_7_6.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EE.UU. aprueba vender cuatro helicópteros Blackhawk a Argentina por 140 millones de dólares</title>
+      <link>https://efe.com/mundo/2026-09-10/eeuu-argentina-venta-helicopteros-blackhawk/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-10/eeuu-argentina-venta-helicopteros-blackhawk/</guid>
+      <pubDate>Thu, 10 Sep 2026 20:24:41 +0000</pubDate>
+      <category>Mundo</category>
+      <description>EE.UU. aprobó la venta de cuatro helicópteros Blackhawk y equipamiento relacionado a Argentina por un valor de 140 millones de dólares.</description>
+      <author>Silvia Contreras</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/Blackhawk.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Milei suspende su viaje al Reino Unido en medio de las tensiones por las islas Malvinas</title>
+      <link>https://efe.com/mundo/2026-09-10/milei-reino-unido-malvinas/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-10/milei-reino-unido-malvinas/</guid>
+      <pubDate>Thu, 10 Sep 2026 20:21:37 +0000</pubDate>
+      <category>Mundo</category>
+      <description>Javier Milei suspende su viaje oficial al Reino Unido en medio del choque bilateral por las sanciones de Argentina a petroleras que operan en las Malvinas.</description>
+      <author>Andres Alfonso Romero Cuesta</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/milei_malvinas-1.webp" type="image/jpeg" />
+    </item>
+    <item>
       <title>Canadá refuerza su cooperación militar con Ucrania y prepara nuevas sanciones contra Rusia</title>
       <link>https://efe.com/mundo/2026-09-10/canada-ucrania-cooperacion-militar/</link>
       <guid isPermaLink="true">https://efe.com/mundo/2026-09-10/canada-ucrania-cooperacion-militar/</guid>
@@ -87,6 +437,16 @@
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/AME6184-CANADA-UCRANIA.webp" type="image/jpeg" />
     </item>
     <item>
+      <title>Los precios al consumidor en Argentina desaceleran al 33,5 % interanual en agosto</title>
+      <link>https://efe.com/economia/2026-09-10/precios-consumidor-argentina-desaceleracion-interanual-agosto/</link>
+      <guid isPermaLink="true">https://efe.com/economia/2026-09-10/precios-consumidor-argentina-desaceleracion-interanual-agosto/</guid>
+      <pubDate>Thu, 10 Sep 2026 19:58:37 +0000</pubDate>
+      <category>Economía y empresas</category>
+      <description>El índice de precios al consumidor (IPC) en Argentina se situó en agosto en 33,5 % interanual, una leve desaceleración frente a julio.</description>
+      <author>Christian Sandoval</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/Precios_consumidor_Argentina.webp" type="image/jpeg" />
+    </item>
+    <item>
       <title>Anthropic desarticuló posibles complots que usaban su IA para investigar armas biológicas</title>
       <link>https://efe.com/ciencia-y-tecnologia/2026-09-10/anthropic-ia-complots-armas-biologicas/</link>
       <guid isPermaLink="true">https://efe.com/ciencia-y-tecnologia/2026-09-10/anthropic-ia-complots-armas-biologicas/</guid>
@@ -95,6 +455,36 @@
       <description>Anthropic afirmó que ha frustrado varios posibles complots en los que utilizaron su IA para realizar investigaciones sobre el desarollo de armas biológicas.</description>
       <author>Silvia Contreras</author>
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/IA.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Pagos al exterior y en efectivo: Cuba aprueba las normas para cuentas bancarias en divisas</title>
+      <link>https://efe.com/economia/2026-09-10/cuba-cuentas-bancarias-pagos/</link>
+      <guid isPermaLink="true">https://efe.com/economia/2026-09-10/cuba-cuentas-bancarias-pagos/</guid>
+      <pubDate>Thu, 10 Sep 2026 19:37:56 +0000</pubDate>
+      <category>Economía y empresas</category>
+      <description>El Gobierno de Cuba autoriza cuentas bancarias en divisas para que el sector privado deposite efectivo en moneda extranjera y realice pagos al exterior.</description>
+      <author>Andres Alfonso Romero Cuesta</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/banco_cuba.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Illa reivindica una convivencia sin "odio" en Cataluña: "Nadie es más catalán que nadie"</title>
+      <link>https://efe.com/cataluna/2026-09-10/illa-cataluna-diada-discurso/</link>
+      <guid isPermaLink="true">https://efe.com/cataluna/2026-09-10/illa-cataluna-diada-discurso/</guid>
+      <pubDate>Thu, 10 Sep 2026 19:29:53 +0000</pubDate>
+      <category>Cataluña</category>
+      <description>Illa ha reivindicado una convivencia sin "odio" en Cataluña: "Nadie es más catalán que nadie. Cataluña somos todos y todas".</description>
+      <author>Beatriz Naya</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/Illa-reivindica-una-convivencia-sin-odio-en-Cataluna-Nadie-es-mas-catalan-que-nadie.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ricky Martin lanza un EP de las canciones que han marcado distintas etapas de su carrera</title>
+      <link>https://efe.com/cultura/2026-09-10/ricky-martin-lanza-ep-carrera/</link>
+      <guid isPermaLink="true">https://efe.com/cultura/2026-09-10/ricky-martin-lanza-ep-carrera/</guid>
+      <pubDate>Thu, 10 Sep 2026 19:18:14 +0000</pubDate>
+      <category>Cultura</category>
+      <description>El artista puertorriqueño Ricky Martin estrenó el EP 'ReVivo', un nuevo proyecto musical que celebra su legado.</description>
+      <author>Silvia Contreras</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/ricky-martin.webp" type="image/jpeg" />
     </item>
     <item>
       <title>La CE desembolsa 150 millones de euros a Jordania en ayuda macrofinanciera</title>
@@ -117,6 +507,36 @@
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/Prision-para-el-principal-responsable-de-la-macroestafa-inmobiliaria-conocida-como-Lujo-Casa.webp" type="image/jpeg" />
     </item>
     <item>
+      <title>Luis Alonso renuncia a la portavocía del Grupo Municipal Socialista de Logroño</title>
+      <link>https://efe.com/la-rioja/2026-09-10/luis-alonso-renuncia-a-la-portavocia-del-grupo-municipal-socialista-de-logrono/</link>
+      <guid isPermaLink="true">https://efe.com/la-rioja/2026-09-10/luis-alonso-renuncia-a-la-portavocia-del-grupo-municipal-socialista-de-logrono/</guid>
+      <pubDate>Thu, 10 Sep 2026 19:03:32 +0000</pubDate>
+      <category>La Rioja</category>
+      <description>El-portavoz-del-PSOE-en-el-Ayuntamiento-de-Logroño-Luis-Alonso-ha-anunciado-su-renuncia-al-cargo-aunque-continuará-como-concejal</description>
+      <author>Eduardo Palacios</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/GRAF9191-ESPANA-PSOE-LOGRONO-1.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Pakistán niega estar sopesando una acción militar contra los hutíes en Yemen</title>
+      <link>https://efe.com/mundo/2026-09-10/pakistan-niega-accion-militar-huties-yemen/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-10/pakistan-niega-accion-militar-huties-yemen/</guid>
+      <pubDate>Thu, 10 Sep 2026 18:58:19 +0000</pubDate>
+      <category>Mundo</category>
+      <description>Pakistán negó este jueves estar debatiendo una acción militar contra los hutíes en Yemen.</description>
+      <author>Beatriz Naya</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/Pakistan-niega-estar-sopesando-una-accion-militar-contra-los-huties-en-Yemen.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La ONU debate las sanciones al programa nuclear de Irán con la oposición de Rusia y China</title>
+      <link>https://efe.com/mundo/2026-09-10/onu-debate-sanciones-programa-nuclear-iran-oposicion-rusia-china/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-10/onu-debate-sanciones-programa-nuclear-iran-oposicion-rusia-china/</guid>
+      <pubDate>Thu, 10 Sep 2026 18:58:02 +0000</pubDate>
+      <category>Mundo</category>
+      <description>El Consejo de Seguridad de la ONU debatió este jueves sus sanciones al programa nuclear iraní, a pesar de la oposición de Rusia y China.</description>
+      <author>Christian Sandoval</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/Consejo_Seguridad_ONU.webp" type="image/jpeg" />
+    </item>
+    <item>
       <title>Malestar en República Checa y Hungría por la ayuda de Bruselas a España para la crisis de Ceuta</title>
       <link>https://efe.com/euro-efe/2026-09-10/malestar-republica-checa-hungria-ayuda-espana-ceuta/</link>
       <guid isPermaLink="true">https://efe.com/euro-efe/2026-09-10/malestar-republica-checa-hungria-ayuda-espana-ceuta/</guid>
@@ -125,6 +545,26 @@
       <description>La ayuda de la CE a España para hacer frente a la crisis migratoria en Ceuta ha causado malestar en la República Checa y en Hungría.</description>
       <author>Sandra Municio</author>
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/Malestar-en-Republica-Checa-y-Hungria-por-la-ayuda-de-Bruselas-a-Espana-para-la-crisis-de-Ceuta.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Alec Baldwin relata la tragedia de 'Rust' en un avance del documental sobre el tiroteo mortal</title>
+      <link>https://efe.com/cultura/2026-09-10/alec-baldwin-tragedia-rust-documental/</link>
+      <guid isPermaLink="true">https://efe.com/cultura/2026-09-10/alec-baldwin-tragedia-rust-documental/</guid>
+      <pubDate>Thu, 10 Sep 2026 18:54:43 +0000</pubDate>
+      <category>Cultura</category>
+      <description>El actor Alec Baldwin recuerda cómo vivió la trágica muerte de la directora de fotografía Halyna Hutchins en el rodaje de 'Rust'.</description>
+      <author>Silvia Contreras</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/baldwin.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Pablo García: "Los sentimientos de uno hay veces que no se pueden controlar"</title>
+      <link>https://efe.com/deportes/2026-09-10/pablo-garcia-los-sentimientos-de-uno-hay-veces-que-no-se-pueden-controlar/</link>
+      <guid isPermaLink="true">https://efe.com/deportes/2026-09-10/pablo-garcia-los-sentimientos-de-uno-hay-veces-que-no-se-pueden-controlar/</guid>
+      <pubDate>Thu, 10 Sep 2026 18:52:44 +0000</pubDate>
+      <category>Cantabria - EFE</category>
+      <description>El nuevo futbolista del Racing, Pablo García, ha asegurado que las lágrimas con las que se despidió del Real Betis responden a sentimientos.</description>
+      <author>Francisco Bustamante Merino</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/GRAF3768-ESPANA-FUTBOL-LALIGA-EA-SPORTS-RACING.webp" type="image/jpeg" />
     </item>
     <item>
       <title>Netanyahu asegura que Irán intenta rearmarse nuclearmente y promete impedirlo</title>
