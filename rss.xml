@@ -5,7 +5,7 @@
     <link>https://efe.com</link>
     <description>Todas las noticias públicas de EFE, incluidas Economía, empresas, España, Mundo y Europa.</description>
     <language>es-ES</language>
-    <lastBuildDate>Fri, 11 Sep 2026 16:46:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 17:19:09 +0000</lastBuildDate>
     <item>
       <title>La Cueva del Conejar de Cáceres abre al público tras 27 años de investigación</title>
       <link>https://efe.com/extremadura/2026-09-11/cueva-conejar-caceres-investigacion/</link>
@@ -105,6 +105,16 @@
       <description>La Universidad de Navarra abre su curso avisando de los retos de la inteligencia artificial</description>
       <author>Javier Rodrigo Ruiperez</author>
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/Universidad-1-1024x683.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El Consejo de Informativos de TVE protesta contra la "externalización de la información"</title>
+      <link>https://efe.com/cultura/2026-09-11/consejo-informativos-tve-protesta-externalizacion-informacion/</link>
+      <guid isPermaLink="true">https://efe.com/cultura/2026-09-11/consejo-informativos-tve-protesta-externalizacion-informacion/</guid>
+      <pubDate>Fri, 11 Sep 2026 13:11:26 +0000</pubDate>
+      <category>Cultura</category>
+      <description>El Consejo de Informativos (CDI) de TVE ha protestado contra contra la "externalización de la información".</description>
+      <author>Rocío Casas Aparicio</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/consejo-informativos-tve-protestas-1.webp" type="image/jpeg" />
     </item>
     <item>
       <title>Tomelloso acogerá el 1 de octubre al Intergrupo del Vino del Comité Europeo de Regiones</title>
