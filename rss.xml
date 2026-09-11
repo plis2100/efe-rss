@@ -5,7 +5,7 @@
     <link>https://efe.com</link>
     <description>Todas las noticias públicas de EFE, incluidas Economía, empresas, España, Mundo y Europa.</description>
     <language>es-ES</language>
-    <lastBuildDate>Fri, 11 Sep 2026 12:26:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 12:50:28 +0000</lastBuildDate>
     <item>
       <title>Sevilla se pone 'El mundo por montera' para abrir la XXIV Bienal de Flamenco</title>
       <link>https://efe.com/andalucia/2026-09-11/sevilla-se-pone-el-mundo-por-montera-para-abrir-la-xxiv-bienal-de-flamenco/</link>
@@ -55,6 +55,16 @@
       <description>El banco de inversión estadounidense Morgan Stanley ha reducido del 13,091 % al 8,398 % su participación en el accionariado de Telefónica.</description>
       <author>Rosa María Corona Gómez</author>
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/TELEFONICA-DOS.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Fin de semana y vuelta al verano con mucho sol, pocas lluvias y hasta 36 grados</title>
+      <link>https://efe.com/espana/2026-09-11/prevision-tiempo-calor-sol-septiembre/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-11/prevision-tiempo-calor-sol-septiembre/</guid>
+      <pubDate>Fri, 11 Sep 2026 10:40:19 +0000</pubDate>
+      <category>España</category>
+      <description>Durante el fin de semana habrá tiempo anticiclónico y estable y las temperaturas subirán de forma progresiva.</description>
+      <author>Belén Mayo</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/calor-10.webp" type="image/jpeg" />
     </item>
     <item>
       <title>Los sindicatos médicos convocan una huelga indefinida en España desde el 28 de octubre</title>
