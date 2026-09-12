@@ -5,7 +5,7 @@
     <link>https://efe.com</link>
     <description>Todas las noticias públicas de EFE, incluidas Economía, empresas, España, Mundo y Europa.</description>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 12 Sep 2026 06:47:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 07:18:08 +0000</lastBuildDate>
     <item>
       <title>El Gobierno de La Rioja convoca 85 nuevas plazas en 8 cuerpos de Servicios Generales</title>
       <link>https://efe.com/la-rioja/2026-09-12/el-gobierno-de-la-rioja-convoca-85-nuevas-plazas-en-8-cuerpos-de-servicios-generales/</link>
@@ -45,6 +45,16 @@
       <description>'NBA 2K27', la nueva entrega de la aclamada saga de videojuegos de simulación de baloncesto, llega este año con importantes novedades.</description>
       <author>Rocío Casas Aparicio</author>
       <enclosure url="https://i0.wp.com/efe.com/wp-content/uploads/2026/09/NBA-2K27-videojuego-baloncesto.webp?fit=900%2C506&amp;ssl=1" type="image/jpeg" />
+    </item>
+    <item>
+      <title>"Soy 100% hecha en la frontera": Julieta Venegas presenta 'Norteña' en España</title>
+      <link>https://efe.com/cultura/2026-09-12/nortena-julieta-venegas/</link>
+      <guid isPermaLink="true">https://efe.com/cultura/2026-09-12/nortena-julieta-venegas/</guid>
+      <pubDate>Sat, 12 Sep 2026 05:00:00 +0000</pubDate>
+      <category>Cultura</category>
+      <description>El paisaje, los sonidos y el corazón de la frontera entre México y EE.UU. llegan a España a través de 'Norteña', de Julieta Venegas.</description>
+      <author>Rocío Casas Aparicio</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/julieta-venegas-nortena.webp" type="image/jpeg" />
     </item>
     <item>
       <title>Shelton jugará la final del Abierto de EE.UU. contra Zverev tras derrotar a Tiafoe</title>
@@ -145,6 +155,16 @@
       <description>El gobernador de Florida, Ron DeSantis, aprobó un reglamento que permitirá al estado elaborar su propia lista de organizaciones terroristas.</description>
       <author>Silvia Contreras</author>
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/Ron-DeSantis-1.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La Fiscalía de Perú investiga el reclutamiento de más de 300 peruanos por parte de Rusia</title>
+      <link>https://efe.com/mundo/2026-09-12/fiscalia-peru-reclutamiento-peruanos-guerra-rusia/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-12/fiscalia-peru-reclutamiento-peruanos-guerra-rusia/</guid>
+      <pubDate>Fri, 11 Sep 2026 23:23:53 +0000</pubDate>
+      <category>Mundo</category>
+      <description>La Fiscalía de Perú investiga el reclutamiento por Rusia de más de 300 personas para ser enviadas al frente de su guerra contra Ucrania.</description>
+      <author>Valentina Chaparro Rincón</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/fiscalia-peru-investiga-reclutamiento-peruanos-guerra-rusia.webp" type="image/jpeg" />
     </item>
     <item>
       <title>La ONU advierte del uso de la IA por grupos terroristas 25 años después de los atentados del 11S</title>
