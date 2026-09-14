@@ -5,7 +5,7 @@
     <link>https://efe.com</link>
     <description>Todas las noticias públicas de EFE, incluidas Economía, empresas, España, Mundo y Europa.</description>
     <language>es-ES</language>
-    <lastBuildDate>Mon, 14 Sep 2026 07:21:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 07:48:42 +0000</lastBuildDate>
     <item>
       <title>El brent sube el 2,6 % y alcanza los 107 dólares, pendiente de las tensiones en Irán</title>
       <link>https://efe.com/economia/2026-09-14/brent-cotizacion-tensiones-iran-2/</link>
@@ -135,6 +135,16 @@
       <description>Corea del Norte confirmó que realizó un "ejercicio de ataque" que involucró unidades de artillería y el lanzamiento de misiles balísticos.</description>
       <author>Christian Sandoval</author>
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/Kim_Jong-un.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Una estudiante española es asesinada en el estado mexicano de Morelos</title>
+      <link>https://efe.com/espana/2026-09-14/estudiante-espanola-asesinato-estado-mexicano-morelos-feminicidio/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-14/estudiante-espanola-asesinato-estado-mexicano-morelos-feminicidio/</guid>
+      <pubDate>Mon, 14 Sep 2026 03:30:04 +0000</pubDate>
+      <category>Andalucía</category>
+      <description>Una estudiante española de 21 años que realizaba un intercambio académico en México fue asesinada en el estado de Morelos.</description>
+      <author>Christian Sandoval</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/Policia_Mexico.webp" type="image/jpeg" />
     </item>
     <item>
       <title>Hallan sin vida en su domicilio a un primo de la presidenta peruana Keiko Fujimori</title>
@@ -975,6 +985,16 @@
       <description>Los once miembros de los BRICS ampliaron este domingo la mesa de su cumbre en Nueva Delhi con una segunda corona de países socios.</description>
       <author>Rocío Casas Aparicio</author>
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/cumbre-brics.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Cierran colegios electorales para legislativas suecas con centroizquierda como favorito</title>
+      <link>https://efe.com/mundo/2026-09-13/elecciones-legislativas-suecia/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-13/elecciones-legislativas-suecia/</guid>
+      <pubDate>Sun, 13 Sep 2026 06:15:08 +0000</pubDate>
+      <category>EuroEFE</category>
+      <description>Los colegios electorales para las elecciones legislativas suecas cerraron este domingo a las 20.00 hora local (18.00 GMT).</description>
+      <author>Rocío Casas Aparicio</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/elecciones-legislativas-suecia-2.webp" type="image/jpeg" />
     </item>
     <item>
       <title>Al menos un muerto y tres heridos en ataque a un buque mercante iraní en el golfo Pérsico</title>
