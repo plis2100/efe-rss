@@ -5,7 +5,7 @@
     <link>https://efe.com</link>
     <description>Todas las noticias públicas de EFE, incluidas Economía, empresas, España, Mundo y Europa.</description>
     <language>es-ES</language>
-    <lastBuildDate>Mon, 14 Sep 2026 15:23:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 20:20:44 +0000</lastBuildDate>
     <item>
       <title>Ferrovial, OHL y Sacyr pujan por hacerse con la reforma del estadio de Gran Canaria, licitada por 234 millones</title>
       <link>https://efe.com/deportes/2026-09-14/ferrovial-ohl-y-sacyr-optan-la-reforma-del-estadio-de-gran-canaria-licitada-por-234-millones/</link>
@@ -217,6 +217,36 @@
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/rss-efeae1207c1d7493bf585a9222627ed725634afd5few.webp" type="image/jpeg" />
     </item>
     <item>
+      <title>La subida de la rentabilidad de los bonos soberanos preocupa al banco BPI</title>
+      <link>https://efe.com/economia/2026-09-14/subida-rentabilidad-bonos-soberanos-preocupa-banco-bpi/</link>
+      <guid isPermaLink="true">https://efe.com/economia/2026-09-14/subida-rentabilidad-bonos-soberanos-preocupa-banco-bpi/</guid>
+      <pubDate>Mon, 14 Sep 2026 11:44:46 +0000</pubDate>
+      <category>Economía y empresas</category>
+      <description>El BPI en su último informe trimestral ha expresado su preocupación por la fuerte subida de la rentabilidad de los bonos soberanos.</description>
+      <author>Rosa María Corona Gómez</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/BOBNOS.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El rey Juan Carlos regresará a Galicia para competir con el Bribón</title>
+      <link>https://efe.com/espana/2026-09-14/rey-juan-carlos-galicia-regata/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-14/rey-juan-carlos-galicia-regata/</guid>
+      <pubDate>Mon, 14 Sep 2026 11:23:03 +0000</pubDate>
+      <category>España</category>
+      <description>El rey Juan Carlos tiene previsto llegar este miércoles a Sanxenxo para competir durante el fin de semana en la regata.</description>
+      <author>Rocío Casas Aparicio</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/rey-juan-carlos-galicia.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Cuatro detenidos y 6 policías locales y un guardia civil heridos en Ocaña (Toledo) tras suspender una fiesta</title>
+      <link>https://efe.com/castilla-la-mancha/2026-09-14/policia-local-ocana-heridos-fiesta/</link>
+      <guid isPermaLink="true">https://efe.com/castilla-la-mancha/2026-09-14/policia-local-ocana-heridos-fiesta/</guid>
+      <pubDate>Mon, 14 Sep 2026 11:22:40 +0000</pubDate>
+      <category>Castilla-La Mancha</category>
+      <description>Seis policías locales de Ocaña (Toledo) y un agente de la Guardia Civil han resultado heridos tras los altercados que se produjeron a raíz de la suspensión de una "macrodiscoteca" en el municipio, unos hechos por los que cuatro persona resultaron detenidos.</description>
+      <author>Cristina Serena Trujillo</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/08/rss-efe73ec9fcf7cc476fd58ddb2bc3663575223445e8ew.webp" type="image/jpeg" />
+    </item>
+    <item>
       <title>La recreación del bautizo de Felipe II protagonizará su 500 aniversario en Valladolid</title>
       <link>https://efe.com/castilla-y-leon/2026-09-14/recreacion-bautizo-felipe-ii-protagonizara-500-aniversario-valladolid/</link>
       <guid isPermaLink="true">https://efe.com/castilla-y-leon/2026-09-14/recreacion-bautizo-felipe-ii-protagonizara-500-aniversario-valladolid/</guid>
@@ -237,6 +267,16 @@
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/HUTIES-DRONES.webp" type="image/jpeg" />
     </item>
     <item>
+      <title>Una nueva escultura de Jaume Plensa llega al Ayuntamiento de Murcia hasta diciembre</title>
+      <link>https://efe.com/murcia/2026-09-14/nueva-escultura-jaume-plensa-ayuntamiento-murcia/</link>
+      <guid isPermaLink="true">https://efe.com/murcia/2026-09-14/nueva-escultura-jaume-plensa-ayuntamiento-murcia/</guid>
+      <pubDate>Mon, 14 Sep 2026 11:11:53 +0000</pubDate>
+      <category>Región de Murcia</category>
+      <description>La obra de Jaume Plensa, que se expone desde marzo en la Cárcel Vieja de Murcia, llega ahora también a la sede del Ayuntamiento.</description>
+      <author>Rocío Casas Aparicio</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/escultura-plensa-ayuntamiento-murcia.webp" type="image/jpeg" />
+    </item>
+    <item>
       <title>El PSOE cae 2 puntos en el CIS tras la crisis de Ceuta pero gana al PP por 5,5 puntos</title>
       <link>https://efe.com/espana/2026-09-14/barometro-cis-psoe-pp/</link>
       <guid isPermaLink="true">https://efe.com/espana/2026-09-14/barometro-cis-psoe-pp/</guid>
@@ -255,6 +295,16 @@
       <description>"los profetas del apocalípsis" que vaticinaron que el Gran Premio de Fórmula 1 que ha acogido este fin de semana Madrid han "fallado en sus pronósticos" y no están a la altura de esta ciudad: "Que sigan rabiando".</description>
       <author>Agencia EFE</author>
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/rss-efe0b098cc9aa94edaf05c2bd72c1fe2f6ae1a5765cw.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La Audiencia Nacional pide asumir la causa abierta en Ceuta contra el delegado de Gobierno</title>
+      <link>https://efe.com/espana/2026-09-14/ceuta-audiencia-nacional-delegado-gobierno/</link>
+      <guid isPermaLink="true">https://efe.com/espana/2026-09-14/ceuta-audiencia-nacional-delegado-gobierno/</guid>
+      <pubDate>Mon, 14 Sep 2026 10:49:39 +0000</pubDate>
+      <category>España</category>
+      <description>la jueza Tardón pide notificar al juzgado de Ceuta la apertura de su investigación y que éste valore si es pertinente inhibirse.</description>
+      <author>Belén Mayo</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/03/udef.webp" type="image/jpeg" />
     </item>
     <item>
       <title>Calor de más de 35 grados a las puertas del otoño antes de un acusado descenso térmico</title>
@@ -345,6 +395,16 @@
       <description>El presidente ruso, Vladímir Putin, quiere mostrar al mundo "el apoyo total" de los rusos a la guerra en Ucrania, según opositora.</description>
       <author>Rocío Casas Aparicio</author>
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/putin-opositora-elecciones.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Kallas insta a los socios de Ucrania a no dejarse intimidar tras el ataque de un dron ruso a un tren</title>
+      <link>https://efe.com/euro-efe/2026-09-14/ue-ucrania-16/</link>
+      <guid isPermaLink="true">https://efe.com/euro-efe/2026-09-14/ue-ucrania-16/</guid>
+      <pubDate>Mon, 14 Sep 2026 09:50:57 +0000</pubDate>
+      <category>EuroEFE</category>
+      <description>La alta representante de la UE para Asuntos Exteriores, Kaja Kallas, instó a los socios de Ucrania a no dejarse intimidar, al referirse al dron ruso que impactó el domingo en un tren cerca de la frontera con Polonia, después de que por esa misma línea hubieran circulado en otro convoy el ex primer ministro británico Boris Johnson y varios altos funcionarios europeos.</description>
+      <author>Almudena Domenech</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/Kallas-insta-a-los-socios-de-Ucrania-a-no-dejarse-intimidar-tras-el-ataque-de-un-dron-ruso-a-un-tren.webp" type="image/jpeg" />
     </item>
     <item>
       <title>Detenidos tres migrantes por ocupar ilegalmente tres viviendas en Ceuta</title>
