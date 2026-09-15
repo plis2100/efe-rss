@@ -5,7 +5,7 @@
     <link>https://efe.com</link>
     <description>Todas las noticias públicas de EFE, incluidas Economía, empresas, España, Mundo y Europa.</description>
     <language>es-ES</language>
-    <lastBuildDate>Tue, 15 Sep 2026 13:48:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:45:54 +0000</lastBuildDate>
     <item>
       <title>Un reporte oficial constata el uso de jaulas y otros abusos a inmigrantes en el centro de detención Alligator Alcatraz</title>
       <link>https://efe.com/mundo/2026-09-14/reporte-oficial-eeuu-uso-jaulas-abusos-inmigrantes-centro-detencion-alligator-alcatraz/</link>
@@ -247,6 +247,56 @@
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/oasis-gira.webp" type="image/jpeg" />
     </item>
     <item>
+      <title>La mayor refinería de África sale a bolsa en Nigeria para recaudar 1.400 millones de euros</title>
+      <link>https://efe.com/economia/2026-09-14/refineria-africa-bolsa-nigeria/</link>
+      <guid isPermaLink="true">https://efe.com/economia/2026-09-14/refineria-africa-bolsa-nigeria/</guid>
+      <pubDate>Mon, 14 Sep 2026 14:59:40 +0000</pubDate>
+      <category>Economía y empresas</category>
+      <description>La refinería Dangote de Nigeria, la mayor de África, sale a bolsa en Nigeria para recaudar 1.400 millones de euros.</description>
+      <author>Marina Gonzalez Yuste</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/refineria-africa-bolsa-nigeria.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Unos 1.200 empleados de la Junta ya trabajan en la Ciudad Administrativa de Ciudad Real</title>
+      <link>https://efe.com/castilla-la-mancha/2026-09-14/ciudad-administrativa-ciudad-real-junta/</link>
+      <guid isPermaLink="true">https://efe.com/castilla-la-mancha/2026-09-14/ciudad-administrativa-ciudad-real-junta/</guid>
+      <pubDate>Mon, 14 Sep 2026 14:59:18 +0000</pubDate>
+      <category>Castilla-La Mancha</category>
+      <description>El presidente de Castilla-La Mancha, Emiliano García-Page, ha inaugurado este lunes la nueva Ciudad Administrativa de Ciudad Real, ubicada en el antiguo Hospital del Carmen, que reúne las instalaciones de ocho delegaciones de la Junta y en la que trabajan unos 1.200 empleados públicos.</description>
+      <author>Cristina Serena Trujillo</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/Ciudad-Administrativa-de-Ciudad-Real.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Trump denuncia una "conspiración" contra la IA: "El único control que necesita la IA es un presidente fuerte e inteligente y EEUU lo tiene"</title>
+      <link>https://efe.com/ciencia-y-tecnologia/2026-09-14/trump-ia-control-presidente-eeuu-inteligencia-artificial/</link>
+      <guid isPermaLink="true">https://efe.com/ciencia-y-tecnologia/2026-09-14/trump-ia-control-presidente-eeuu-inteligencia-artificial/</guid>
+      <pubDate>Mon, 14 Sep 2026 14:47:34 +0000</pubDate>
+      <category>Ciencia y Tecnología</category>
+      <description>Trump denuncia una "conspiración" contra la IA: "El único control que necesita la IA es un presidente fuerte e inteligente y EEUU lo tiene".</description>
+      <author>Marina Gonzalez Yuste</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/trump-ia-inteligencia-artificial-control.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Nuevos sondeos para el abastecimiento de agua a los municipios del Pusa</title>
+      <link>https://efe.com/castilla-la-mancha/2026-09-14/agua-municipios-pusa-nuevos-sondeos/</link>
+      <guid isPermaLink="true">https://efe.com/castilla-la-mancha/2026-09-14/agua-municipios-pusa-nuevos-sondeos/</guid>
+      <pubDate>Mon, 14 Sep 2026 14:37:31 +0000</pubDate>
+      <category>Castilla-La Mancha</category>
+      <description>La Consejería de Desarrollo Sostenible va a iniciar nuevos sondeos para garantizar el abastecimiento de agua potable ante la emergencia que sufren municipios del Pusa, en la provincia de Toledo.</description>
+      <author>Cristina Serena Trujillo</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2024/08/sabotaje.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Cuba acusa a EE.UU. de provocar “devastadoras consecuencias humanitarias” para la isla</title>
+      <link>https://efe.com/mundo/2026-09-14/eeuu-bloqueo-cuba-consecuencias-humanitarias-desvatadoras/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-09-14/eeuu-bloqueo-cuba-consecuencias-humanitarias-desvatadoras/</guid>
+      <pubDate>Mon, 14 Sep 2026 14:31:42 +0000</pubDate>
+      <category>Mundo</category>
+      <description>El canciller de Cuba, Bruno Rodríguez, acusa a EE.UU. de provocar “devastadoras consecuencias humanitarias” para la isla.</description>
+      <author>Marina Gonzalez Yuste</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/cuba-bloqueo-estados-unidos-devastador.webp" type="image/jpeg" />
+    </item>
+    <item>
       <title>Ferrovial, OHL y Sacyr pujan por hacerse con la reforma del estadio de Gran Canaria, licitada por 234 millones</title>
       <link>https://efe.com/deportes/2026-09-14/ferrovial-ohl-y-sacyr-optan-la-reforma-del-estadio-de-gran-canaria-licitada-por-234-millones/</link>
       <guid isPermaLink="true">https://efe.com/deportes/2026-09-14/ferrovial-ohl-y-sacyr-optan-la-reforma-del-estadio-de-gran-canaria-licitada-por-234-millones/</guid>
@@ -255,6 +305,16 @@
       <description>Las Palmas de Gran Canaria, 14 sep (EFE).- Tres de las principales constructoras españolas optan a encargarse de las obras de reforma y ampliación del estadio de Gran Canaria de cara al Mundial de fútbol de 2030, licitadas por 234 millones de euros: Ferrovial, OHL y Sacyr, en dos de los casos con socios empresariales ... Leer más</description>
       <author>Agencia EFE</author>
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/rss-efec610cf3875f928e0fed1cf577288cef3f4ee8c60w.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El coche compartido y el transporte a demanda reforzarán la conectividad con La Luz y El Sebadal</title>
+      <link>https://efe.com/canarias/2026-09-14/el-coche-compartido-y-el-transporte-a-demanda-reforzaran-la-conectividad-con-la-luz-y-el-sebadal/</link>
+      <guid isPermaLink="true">https://efe.com/canarias/2026-09-14/el-coche-compartido-y-el-transporte-a-demanda-reforzaran-la-conectividad-con-la-luz-y-el-sebadal/</guid>
+      <pubDate>Mon, 14 Sep 2026 14:03:14 +0000</pubDate>
+      <category>Canarias</category>
+      <description>Las Palmas de Gran Canaria (EFE).- El Gobierno canario, el Ayuntamiento de Las Palmas de Gran Canaria y Puertos de Las Palmas ofrecerán nuevas vías para entrar y salir de la zona portuaria y El Sebadal, como son el coche compartido o el transporte a demanda, que se unirán a la nueva línea 19 de ... Leer más</description>
+      <author>Agencia EFE</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/rss-efe514cfcf8181ca903c5c8b434a064323c20becbbcw.webp" type="image/jpeg" />
     </item>
     <item>
       <title>Martín apuesta por "seguir trabajando" para evitar la huelga indefinida de los médicos</title>
@@ -397,6 +457,16 @@
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/festival-sitges.webp" type="image/jpeg" />
     </item>
     <item>
+      <title>El ministro de Hacienda pide dejar la "furia y crispación" y negociar una financiación "histórica"</title>
+      <link>https://efe.com/economia/2026-09-14/ministro-hacienda-pide-dejar-furia-crispacion-negociar-financiacion-historica/</link>
+      <guid isPermaLink="true">https://efe.com/economia/2026-09-14/ministro-hacienda-pide-dejar-furia-crispacion-negociar-financiacion-historica/</guid>
+      <pubDate>Mon, 14 Sep 2026 12:39:04 +0000</pubDate>
+      <category>Comunidad Valenciana</category>
+      <description>El ministro de Hacienda, Arcadi España, ha pedido este lunes dejar a un lado "el ruido, la furia y la crispación" política.</description>
+      <author>Rosa María Corona Gómez</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/aracadi-nueva.webp" type="image/jpeg" />
+    </item>
+    <item>
       <title>Bardem recibirá, de manos de Sorrentino, el premio de honor de la Fiesta del Cine de Roma</title>
       <link>https://efe.com/cultura/2026-09-14/bardem-premio-honor-fiesta-cine-roma/</link>
       <guid isPermaLink="true">https://efe.com/cultura/2026-09-14/bardem-premio-honor-fiesta-cine-roma/</guid>
@@ -495,6 +565,26 @@
       <description>Las importaciones cubanas procedentes del mercado estadounidense han alcanzado cifras récord en 2026, un incremento sostenido que refuerza la dependencia de Cuba de EE.UU. para la compra de combustibles y bienes de consumo.</description>
       <author>Juan David Mosos Franco</author>
       <enclosure url="https://i0.wp.com/efe.com/wp-content/uploads/2026/09/Cuba-importaciones-1.webp?fit=900%2C614&amp;ssl=1" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Cuatro equipos brasileños se asoman con ambición a las semifinales de la Libertadores</title>
+      <link>https://efe.com/deportes/2026-09-14/equipos-brasilenos-semifinales-copa-libertadores-2026/</link>
+      <guid isPermaLink="true">https://efe.com/deportes/2026-09-14/equipos-brasilenos-semifinales-copa-libertadores-2026/</guid>
+      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Deportes</category>
+      <description>Flamengo, Palmeiras, Fluminense y Corinthians buscan sellar su clasificación a las semifinales de la Copa Libertadores 2026.</description>
+      <author>juankochoaa</author>
+      <enclosure url="https://i0.wp.com/efe.com/wp-content/uploads/2026/09/portada-2.webp?fit=900%2C599&amp;ssl=1" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La escritora Alana S. Portero invoca en 'Cosamala' los fantasmas de la Guerra Civil española</title>
+      <link>https://efe.com/cultura/2026-09-14/escritora-alana-s-portero-invoca-novela-cosamala-fantasmas-guerra-civil-espanola/</link>
+      <guid isPermaLink="true">https://efe.com/cultura/2026-09-14/escritora-alana-s-portero-invoca-novela-cosamala-fantasmas-guerra-civil-espanola/</guid>
+      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+      <category>Cultura</category>
+      <description>La escritora Alana S. Portero se prepara para publicar 'Cosamala', una novela en la que invoca los fantasmas de la Guerra Civil española.</description>
+      <author>Christian Sandoval</author>
+      <enclosure url="https://i0.wp.com/efe.com/wp-content/uploads/2026/09/Alana_escritora.webp?fit=900%2C599&amp;ssl=1" type="image/jpeg" />
     </item>
     <item>
       <title>La ONU advierte de que todos los derechos humanos "están en riesgo" ante el avance de la IA</title>
