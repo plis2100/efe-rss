@@ -5,7 +5,27 @@
     <link>https://efe.com</link>
     <description>Todas las noticias públicas de EFE, incluidas Economía, empresas, España, Mundo y Europa.</description>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 19 Sep 2026 13:43:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 14:18:40 +0000</lastBuildDate>
+    <item>
+      <title>Laporta pide valentía para competir con los "clubes-estado" a los que les "recalifican terrenos"</title>
+      <link>https://efe.com/deportes/2026-09-19/laporta-barcelona-asamblea-real-madrid/</link>
+      <guid isPermaLink="true">https://efe.com/deportes/2026-09-19/laporta-barcelona-asamblea-real-madrid/</guid>
+      <pubDate>Sat, 19 Sep 2026 09:25:23 +0000</pubDate>
+      <category>Cataluña</category>
+      <description>El presidente del FC Barcelona ha presentado su informe de apertura de la asamblea telemática de socios compromisarios.</description>
+      <author>Belén Mayo</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2025/06/jueza-cita-caso-negreira-laporta-luis-enrique-valverde.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ana Miralles, una ilustradora a la que le gustaría "apuñalar" a la inteligencia artificial</title>
+      <link>https://efe.com/navarra/2026-09-19/entrevista-con-la-ilustradora-ana-miralles/</link>
+      <guid isPermaLink="true">https://efe.com/navarra/2026-09-19/entrevista-con-la-ilustradora-ana-miralles/</guid>
+      <pubDate>Sat, 19 Sep 2026 09:20:24 +0000</pubDate>
+      <category>Navarra</category>
+      <description>Ana Miralles, una ilustradora a la que le gustaría "apuñalar" a la inteligencia artificial</description>
+      <author>Javier Rodrigo Ruiperez</author>
+      <enclosure url="https://efe.com/wp-content/uploads/2026/09/Mirallesw2.webp" type="image/jpeg" />
+    </item>
     <item>
       <title>El presidente de Bolivia, Rodrigo Paz, anuncia la eliminación de la subvención al diésel</title>
       <link>https://efe.com/economia/2026-09-19/bolivia-diesel-subvencion-rodrigo-paz/</link>
@@ -14985,26 +15005,6 @@
       <description>La estatua de Mao Zedong en la ciudad de Shenyang resume en vísperas del 50.º aniversario de su muerte una presencia que perdura.</description>
       <author>Nuria Santesteban</author>
       <enclosure url="https://efe.com/wp-content/uploads/2026/09/BILLETES.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>El 40 veces campeón del mundo Toni Bou, que comenzó la temporada lesionado, pensó que "no lo conseguiría"</title>
-      <link>https://efe.com/deportes/2026-09-09/entrevista-toni-bou-40-veces-campeon-mundo-trial/</link>
-      <guid isPermaLink="true">https://efe.com/deportes/2026-09-09/entrevista-toni-bou-40-veces-campeon-mundo-trial/</guid>
-      <pubDate>Wed, 09 Sep 2026 05:00:00 +0000</pubDate>
-      <category>Deportes</category>
-      <description>El español Toni Bou, 40 veces campeón del mundo, comenzó la temporada lesionado en y pensó que "no conseguiría" su objetivo.</description>
-      <author>Rocío Casas Aparicio</author>
-      <enclosure url="https://efe.com/wp-content/uploads/2026/09/ENTREVISTA-TONI-BOU.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>El Congreso retoma la actividad plenaria con un nuevo cara a cara entre Sánchez y Feijóo</title>
-      <link>https://efe.com/espana/2026-09-09/congreso-sesion-control-sanchez-feijoo/</link>
-      <guid isPermaLink="true">https://efe.com/espana/2026-09-09/congreso-sesion-control-sanchez-feijoo/</guid>
-      <pubDate>Wed, 09 Sep 2026 04:59:33 +0000</pubDate>
-      <category>España</category>
-      <description>El Congreso retoma este miércoles la actividad plenaria con un nuevo cara a cara entre Pedro Sánchez y el líder de la oposición, Alberto Núñez Feijóo.</description>
-      <author>Rosa María Corona Gómez</author>
-      <enclosure url="https://efe.com/wp-content/uploads/2026/09/san-chez-dos.webp" type="image/jpeg" />
     </item>
   </channel>
 </rss>
