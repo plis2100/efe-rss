@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
-    <title>EFE — Todas las noticias</title>
+    <title>EFE — Noticias públicas</title>
     <link>https://efe.com</link>
-    <description>Todas las noticias públicas de EFE, incluidas Economía, empresas, España, Mundo y Europa.</description>
+    <description>Titulares publicados en listados públicos de EFE; cobertura parcial, no exhaustiva.</description>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 31 Oct 2026 09:04:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 09:22:14 +0000</lastBuildDate>
     <item>
       <title>El brote de ébola en la República Democrática del Congo deja ya más de 5.000 personas muertas</title>
       <link>https://efe.com/salud/2026-10-31/ebola-muertos-congo-epidemia/</link>
@@ -215,6 +215,22 @@
       <description>China condemns US Ambassador Ronald Johnson’s remarks on bilateral ties as malicious slander, accusing Washington of attempting to sow discord with Mexico.</description>
       <author>Agencia EFE</author>
       <enclosure url="https://efe.com/wp-content/uploads/2026/10/rss-efe3dea149e066ece39b13ee2e8b24afcf8e7d67bc2w.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El encarecimiento de la energía eleva la factura eléctrica de octubre a máximos de 2022</title>
+      <link>https://efe.com/economia/2026-10-31/precio-luz-electricidad-energia/</link>
+      <guid isPermaLink="true">https://efe.com/economia/2026-10-31/precio-luz-electricidad-energia/</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <category>Economía y empresas</category>
+      <description>Madrid (EFE).- Este octubre se ha convertido en el mes con la factura eléctrica de un consumidor tipo con tarifa regulada o PVPC más elevada de los últimos cuatro años, coincidiendo con el encarecimiento de la energía, en máximos desde el último trimestre de 2022, y la subida de los...</description>
+    </item>
+    <item>
+      <title>Bulgaria elige nuevo presidente entre la prorrusa Yotova y el europeísta Gyurov</title>
+      <link>https://efe.com/euro-efe/2026-10-31/bulgaria-elecciones-presidenciales/</link>
+      <guid isPermaLink="true">https://efe.com/euro-efe/2026-10-31/bulgaria-elecciones-presidenciales/</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <category>Mundo</category>
+      <description>Vladislav Púnchev | Varna (Bulgaria) (EuroEFE).- Bulgaria celebra este domingo la segunda y decisiva vuelta de las elecciones presidenciales en las que se enfrentan la actual jefa de Estado en funciones, la prorrusa Iliana Yotova, y el europeísta Andrey Gyurov, un ex primer ministro interino. Yotova ganó la primera vuelta...</description>
     </item>
     <item>
       <title>Kast remueve al subsecretario de Justicia en medio de la polémica por las rebajas de penas a pederastas</title>
@@ -6225,6 +6241,14 @@
       <description>El Partido de los Trabajadores (PT) aseguró que el presidente brasileño, Luiz Inácio Lula da Silva, buscará alcanzar superávit fiscal.</description>
       <author>Silvia Contreras</author>
       <enclosure url="https://efe.com/wp-content/uploads/2026/10/lula-4.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La científica planetaria Bethany Ehlmann, experta en Marte: No hay una Tierra 2.0 allí</title>
+      <link>https://efe.com/ciencia-y-tecnologia/2026-10-27/bethany-ehlmann-marte-espacio-festival-starmus/</link>
+      <guid isPermaLink="true">https://efe.com/ciencia-y-tecnologia/2026-10-27/bethany-ehlmann-marte-espacio-festival-starmus/</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <category>Ciencia y tecnología</category>
+      <description>Cristina Magdaleno | Arona (Tenerife) (EFE).- Marte tuvo lagos, ríos y sistemas hidrotermales, conserva hielo y, aunque aún está por comprobar, quizá también agua bajo su superficie, pero para la científica planetaria Bethany Ehlmann conviene rebajar parte de la épica y expectativas en torno a su futura colonización. «No hay...</description>
     </item>
     <item>
       <title>Harry Kane, Alexia Putellas crowned 2026 Ballon d'Or winners</title>
@@ -12585,6 +12609,14 @@
       <enclosure url="https://efe.com/wp-content/uploads/2026/10/rss-efedb4dd37c5a98d2982c949e1e587afbdbe381ebadw-1536x1022-1.webp" type="image/jpeg" />
     </item>
     <item>
+      <title>El jefe de los derechos humanos de la ONU condena la violencia durante las protestas en Europa</title>
+      <link>https://efe.com/mundo/2026-10-20/violencia-protestas-europa-jefe-derechos-humanos-onu/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-10-20/violencia-protestas-europa-jefe-derechos-humanos-onu/</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <category>Europa</category>
+      <description>Ginebra (EFE).- El alto comisionado de la ONU para los derechos humanos, Volker Türk, condenó este martes los actos de violencia durante las protestas multitudinarias en Francia, Italia, Portugal, Bélgica y Albania, aunque también expresó su preocupación por el posible uso excesivo de la fuerza contra manifestantes. «Lamento las acciones...</description>
+    </item>
+    <item>
       <title>Bolsonaro se compromete a no intentar la reelección en Brasil y niega pretender ofrecerle cargos a su familia</title>
       <link>https://efe.com/mundo/2026-10-17/bolsonaro-compromiso-no-reeleccion-brasil-criticas-lula-da-silva-elecciones/</link>
       <guid isPermaLink="true">https://efe.com/mundo/2026-10-17/bolsonaro-compromiso-no-reeleccion-brasil-criticas-lula-da-silva-elecciones/</guid>
@@ -14963,46 +14995,6 @@
       <description>Yasmina Reza y Juan Gabriel Vásquez son dos de los invitados de Literaktum 2026, que se celebrará en San Sebastián del 9 al 22 de noviembre</description>
       <author>Ana Burgueño Cuesta</author>
       <enclosure url="https://efe.com/wp-content/uploads/2026/10/vaszquez.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>El TSJ valenciano inadmite la querella contra Pérez Llorca por la invitación a la final del Mundial</title>
-      <link>https://efe.com/comunidad-valenciana/2026-10-15/el-tsjcv-inadmite-la-querella-contra-perez-llorca-por-la-invitacion-a-la-final-del-mundial/</link>
-      <guid isPermaLink="true">https://efe.com/comunidad-valenciana/2026-10-15/el-tsjcv-inadmite-la-querella-contra-perez-llorca-por-la-invitacion-a-la-final-del-mundial/</guid>
-      <pubDate>Thu, 15 Oct 2026 13:00:20 +0000</pubDate>
-      <category>Comunidad Valenciana</category>
-      <description>La Sala de lo Civil y Penal del Tribunal Superior de Justicia de la Comunidad Valenciana (TSJCV) ha acordado no admitir a trámite la querella interpuesta por la Asociación Transparencia y Democracia en el Deporte contra el president de la Generalitat, Juanfran Pérez Llorca, por la invitación para asistir a la final del Mundial de Fútbol de 2026, celebrada en Nueva York.</description>
-      <author>Agencia EFE</author>
-      <enclosure url="https://efe.com/wp-content/uploads/2026/10/rss-efef2ba6c3f92bff7b6a61dbec38e0e4d259e2a9bfdw.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>¿Quién es Jesús Rodríguez, uno de los diez 'bendecidos' por Messi?</title>
-      <link>https://efe.com/deportes/2026-10-15/jesus-rodriguez-promesa-espanola-lionel-messi/</link>
-      <guid isPermaLink="true">https://efe.com/deportes/2026-10-15/jesus-rodriguez-promesa-espanola-lionel-messi/</guid>
-      <pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
-      <category>Deportes</category>
-      <description>Jesús Rodríguez, extremo español formado en el Betis y cedido al Como 1907, figura entre los jóvenes talentos elegidos por Lionel Messi.</description>
-      <author>juankochoaa</author>
-      <enclosure url="https://i0.wp.com/efe.com/wp-content/uploads/2026/10/Portada-7.webp?fit=900%2C598&amp;ssl=1" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Un estudio revela que la cifra de adolescentes que declaran sentirse solos se ha duplicado</title>
-      <link>https://efe.com/andalucia/2026-10-15/un-estudio-revela-que-la-cifra-de-adolescentes-que-declaran-sentirse-solos-se-ha-duplicado/</link>
-      <guid isPermaLink="true">https://efe.com/andalucia/2026-10-15/un-estudio-revela-que-la-cifra-de-adolescentes-que-declaran-sentirse-solos-se-ha-duplicado/</guid>
-      <pubDate>Thu, 15 Oct 2026 12:56:59 +0000</pubDate>
-      <category>Andalucía</category>
-      <description>La proporción de adolescentes que declaran sentirse solos se ha duplicado, pasando del 7 % en 2018 al 13,6 % en 2022.</description>
-      <author>Luis Ortega</author>
-      <enclosure url="https://efe.com/wp-content/uploads/2026/02/autolesiones-adolescentes.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Somalia anuncia elecciones presidenciales para el 15 de mayo de 2027</title>
-      <link>https://efe.com/mundo/2026-10-15/somalia-elecciones-presidenciales-mayo-2027/</link>
-      <guid isPermaLink="true">https://efe.com/mundo/2026-10-15/somalia-elecciones-presidenciales-mayo-2027/</guid>
-      <pubDate>Thu, 15 Oct 2026 12:48:20 +0000</pubDate>
-      <category>Mundo</category>
-      <description>La comisión electoral de Somalia ha anunciado este jueves elecciones presidenciales para el 15 de mayo de 2027.</description>
-      <author>Rafael González</author>
-      <enclosure url="https://efe.com/wp-content/uploads/2026/10/EA1009-SOMALIA-PRESIDENTIAL-ELECTIONS.webp" type="image/jpeg" />
     </item>
   </channel>
 </rss>
