@@ -1,7 +1,5 @@
 from __future__ import annotations
-
 import email.utils
-import json
 import os
 import re
 import tempfile
@@ -9,95 +7,100 @@ import time
 import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urljoin, urlparse
+from bs4 import BeautifulSoup
 
 BASE = 'https://efe.com'
-INDEX = BASE + '/sitemap_index.xml'
 RSS = Path('rss.xml')
-ESTADO = Path('estado.json')
-NS = {'sm': 'http://www.sitemaps.org/schemas/sitemap/0.9',
-      'image': 'http://www.google.com/schemas/sitemap-image/1.1'}
-HEADERS = {'User-Agent': 'RSS-EFE-Monitor/1.0 (public sitemap reader)',
-           'Accept': 'application/xml,text/xml;q=0.9,*/*;q=0.8'}
 MAX_ITEMS = 1500
-SITEMAPS = 3
+# Listados públicos: titulares, enlaces, extractos y fechas sin abrir cada artículo.
+SECCIONES = [
+    ('/economia/', 'Economía y empresas'),
+    ('/portada-espana/', 'España'),
+    ('/mundo/', 'Mundo'),
+    ('/europa/', 'Europa'),
+    ('/cultura/', 'Cultura'),
+    ('/ciencia-y-tecnologia/', 'Ciencia y tecnología'),
+    ('/deportes/', 'Deportes'),
+    ('/educacion/', 'Educación'),
+    ('/salud/', 'Salud'),
+    ('/medio-ambiente/', 'Medio ambiente'),
+]
+# Una sola página por sección para minimizar peticiones; se puede ampliar después.
+HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; EFE-public-listing-RSS/1.0)',
+           'Accept': 'text/html,application/xhtml+xml;q=0.9,*/*;q=0.8',
+           'Accept-Language': 'es-ES,es;q=0.9'}
+MESES = {'enero':1,'febrero':2,'marzo':3,'abril':4,'mayo':5,'junio':6,'julio':7,'agosto':8,'septiembre':9,'setiembre':9,'octubre':10,'noviembre':11,'diciembre':12}
 
 
-def get_xml(url):
-    for intento in range(3):
-        try:
-            req = urllib.request.Request(url, headers=HEADERS)
-            with urllib.request.urlopen(req, timeout=25) as response:
-                return ET.fromstring(response.read())
-        except urllib.error.HTTPError as exc:
-            if exc.code not in (429, 500, 502, 503, 504) or intento == 2:
-                raise
-            retry = exc.headers.get('Retry-After', '')
-            delay = min(int(retry), 30) if retry.isdigit() else 3 * (intento + 1)
-            time.sleep(delay)
-    raise RuntimeError('No se pudo obtener el XML')
+def descargar(url):
+    req = urllib.request.Request(url, headers=HEADERS)
+    with urllib.request.urlopen(req, timeout=22) as r:
+        return r.read()
 
 
-def fecha(valor):
-    if not valor:
+def parse_fecha(texto):
+    m = re.search(r'\b(\d{1,2})\s+([a-záéíóú]+)\s+(20\d{2})\b', texto.lower())
+    if not m or m.group(2) not in MESES:
         return None
+    return datetime(int(m.group(3)), MESES[m.group(2)], int(m.group(1)), tzinfo=timezone.utc)
+
+
+def fecha_item(item):
     try:
-        dt = datetime.fromisoformat(valor.strip().replace('Z', '+00:00'))
-        return dt.replace(tzinfo=timezone.utc) if dt.tzinfo is None else dt
-    except ValueError:
+        return email.utils.parsedate_to_datetime(item.findtext('pubDate', '')).astimezone(timezone.utc)
+    except (TypeError, ValueError):
+        return datetime.min.replace(tzinfo=timezone.utc)
+
+
+def extraer_listado(html_bytes, seccion):
+    soup = BeautifulSoup(html_bytes, 'html.parser')
+    encontrados = {}
+    # Los listados de EFE publican los artículos bajo encabezados h2 enlazados.
+    for h in soup.select('h2'):
+        a = h.find('a', href=True)
+        if not a:
+            continue
+        link = urljoin(BASE, a['href']).split('#',1)[0].split('?',1)[0]
+        ruta = urlparse(link).path
+        if urlparse(link).netloc not in ('efe.com','www.efe.com') or not re.search(r'/20\d{2}-\d{2}-\d{2}/', ruta):
+            continue
+        titulo = a.get_text(' ', strip=True)
+        if not titulo or len(titulo) < 12:
+            continue
+        # Fecha desde la URL del propio artículo: no usar fecha de ejecución.
+        match = re.search(r'/((?:20\d{2})-\d{2}-\d{2})/', ruta)
         try:
-            dt = email.utils.parsedate_to_datetime(valor)
-            return dt.replace(tzinfo=timezone.utc) if dt.tzinfo is None else dt
-        except (TypeError, ValueError):
-            return None
+            dt = datetime.strptime(match.group(1), '%Y-%m-%d').replace(tzinfo=timezone.utc)
+        except (ValueError, AttributeError):
+            continue
+        # Los listados contienen una sinopsis próxima al titular.
+        contenedor = h.parent
+        descripcion = ''
+        for _ in range(3):
+            if contenedor is None:
+                break
+            p = contenedor.find('p')
+            if p:
+                descripcion = p.get_text(' ', strip=True)
+                break
+            contenedor = contenedor.parent
+        if len(descripcion) > 450:
+            descripcion = descripcion[:447].rsplit(' ',1)[0] + '…'
+        encontrados[link] = (titulo, dt, seccion, descripcion)
+    return encontrados
 
 
-def escribir(ruta, texto):
-    with tempfile.NamedTemporaryFile(mode='w', encoding='utf-8', delete=False,
-                                     dir='.', prefix='efe_', suffix='.tmp') as f:
+def escribir_atomico(texto):
+    with tempfile.NamedTemporaryFile('w', encoding='utf-8', delete=False, dir='.', suffix='.tmp') as f:
         f.write(texto)
         temporal = f.name
-    os.replace(temporal, ruta)
+    os.replace(temporal, RSS)
 
 
 def main():
-    # Nunca se solicitan páginas individuales de noticias: evita el patrón que provocaba 429.
-    try:
-        raiz = get_xml(INDEX)
-        enlaces = [n.findtext('sm:loc', '', NS).strip() for n in raiz.findall('sm:sitemap', NS)]
-        enlaces = [u for u in enlaces if re.search(r'/post-sitemap\d+\.xml$', u)]
-        enlaces.sort(key=lambda u: int(re.search(r'post-sitemap(\d+)', u).group(1)), reverse=True)
-        if not enlaces:
-            raise RuntimeError('El índice no contiene post-sitemaps reconocibles')
-        nuevos = {}
-        errores = 0
-        for url in enlaces[:SITEMAPS]:
-            try:
-                mapa = get_xml(url)
-            except Exception as exc:
-                errores += 1
-                print(f'No se pudo leer sitemap {url}: {exc}')
-                continue
-            for nodo in mapa.findall('sm:url', NS):
-                link = nodo.findtext('sm:loc', '', NS).strip().split('#')[0].split('?')[0]
-                if not link.startswith(BASE + '/') or not re.search(r'/20\d{2}-\d{2}-\d{2}/', urlparse(link).path):
-                    continue
-                titulo = nodo.findtext('image:image/image:title', '', NS).strip()
-                # Sin un título suministrado por la fuente, no inventamos uno a partir del slug.
-                if not titulo:
-                    continue
-                dt = fecha(nodo.findtext('sm:lastmod', '', NS))
-                if dt is None:
-                    continue
-                nuevos[link] = (titulo, dt)
-        if errores == min(SITEMAPS, len(enlaces)):
-            raise RuntimeError('Todos los sitemaps han fallado: se conserva el RSS existente')
-    except Exception as exc:
-        print(f'ERROR al consultar EFE: {exc}. No se modifican rss.xml ni estado.json')
-        raise SystemExit(1)
-
     anteriores = {}
     if RSS.exists():
         try:
@@ -105,52 +108,64 @@ def main():
             for item in root.findall('./channel/item'):
                 link = item.findtext('link', '').strip()
                 if link:
-                    anteriores[link] = item
+                    anteriores[link.split('?',1)[0]] = item
         except ET.ParseError as exc:
             raise SystemExit(f'RSS anterior inválido; no se sobrescribe: {exc}')
-
+    print(f'Noticias anteriores conservadas: {len(anteriores)}', flush=True)
+    nuevos = {}
+    exitos = 0
+    bloqueado = False
+    for ruta, seccion in SECCIONES:
+        if bloqueado:
+            break
+        url = urljoin(BASE, ruta)
+        try:
+            datos = extraer_listado(descargar(url), seccion)
+            exitos += 1
+            nuevos.update(datos)
+            print(f'{seccion}: {len(datos)} titulares verificables', flush=True)
+        except urllib.error.HTTPError as exc:
+            print(f'{seccion}: HTTP {exc.code}; se conserva el RSS anterior', flush=True)
+            if exc.code in (403,429):
+                bloqueado = True
+        except Exception as exc:
+            print(f'{seccion}: fallo de lectura ({exc})', flush=True)
+        time.sleep(2)
+    if not exitos:
+        raise SystemExit('No se pudo consultar ningún listado. RSS anterior intacto.')
     agregados = 0
-    for link, (titulo, dt) in nuevos.items():
+    for link, (titulo, dt, seccion, descripcion) in nuevos.items():
         if link in anteriores:
             continue
         item = ET.Element('item')
-        ET.SubElement(item, 'title').text = titulo
-        ET.SubElement(item, 'link').text = link
-        ET.SubElement(item, 'guid', {'isPermaLink': 'true'}).text = link
-        # lastmod es la fecha de modificación del sitemap, no necesariamente la de publicación.
-        ET.SubElement(item, 'pubDate').text = email.utils.format_datetime(dt)
+        ET.SubElement(item,'title').text = titulo
+        ET.SubElement(item,'link').text = link
+        ET.SubElement(item,'guid', {'isPermaLink':'true'}).text = link
+        ET.SubElement(item,'pubDate').text = email.utils.format_datetime(dt)
+        ET.SubElement(item,'category').text = seccion
+        if descripcion:
+            ET.SubElement(item,'description').text = descripcion
         anteriores[link] = item
         agregados += 1
-
-    def orden(item):
-        dt = fecha(item.findtext('pubDate', ''))
-        return dt or datetime.min.replace(tzinfo=timezone.utc)
-
-    ordenados = sorted(anteriores.values(), key=orden, reverse=True)[:MAX_ITEMS]
-    print(f'Artículos con título y fecha disponibles en sitemap: {len(nuevos)}')
-    print(f'Nuevas añadidas: {agregados}')
-    print(f'RSS total: {len(ordenados)}')
-    print('Aviso: sitemap lastmod puede no ser la fecha original de publicación.')
-    print('Aviso: artículos sin image:title quedan pendientes; no se inventan titulares.')
+    print(f'Titulares detectados en listados: {len(nuevos)}', flush=True)
+    print(f'Nuevas añadidas: {agregados}', flush=True)
     if not agregados:
-        print('No hay nuevas entradas verificables; se conserva el RSS anterior.')
+        print('Sin novedades verificables; no se modifica rss.xml.', flush=True)
         return
-
-    rss = ET.Element('rss', {'version': '2.0'})
-    channel = ET.SubElement(rss, 'channel')
-    ET.SubElement(channel, 'title').text = 'EFE — Todas las noticias'
-    ET.SubElement(channel, 'link').text = BASE
-    ET.SubElement(channel, 'description').text = 'Noticias EFE obtenidas de metadatos públicos del sitemap'
-    ET.SubElement(channel, 'language').text = 'es-ES'
-    ET.SubElement(channel, 'lastBuildDate').text = email.utils.format_datetime(datetime.now(timezone.utc))
+    ordenados = sorted(anteriores.values(), key=fecha_item, reverse=True)[:MAX_ITEMS]
+    rss = ET.Element('rss', {'version':'2.0'})
+    canal = ET.SubElement(rss,'channel')
+    ET.SubElement(canal,'title').text = 'EFE — Noticias públicas'
+    ET.SubElement(canal,'link').text = BASE
+    ET.SubElement(canal,'description').text = 'Titulares publicados en listados públicos de EFE; cobertura parcial, no exhaustiva.'
+    ET.SubElement(canal,'language').text = 'es-ES'
+    ET.SubElement(canal,'lastBuildDate').text = email.utils.format_datetime(datetime.now(timezone.utc))
     for item in ordenados:
-        channel.append(item)
+        canal.append(item)
     ET.indent(rss, space='  ')
-    contenido = ET.tostring(rss, encoding='unicode', xml_declaration=True)
-    escribir(RSS, contenido + '\n')
-    # Conservar el estado anterior: evita alterar el seguimiento del scraper antiguo.
-    print('estado.json se conserva sin cambios.')
-
+    escribir_atomico(ET.tostring(rss, encoding='unicode', xml_declaration=True) + '\n')
+    print(f'RSS actualizado: {len(ordenados)} noticias', flush=True)
+    print('estado.json conservado; las URLs nuevas quedan deduplicadas en rss.xml.', flush=True)
 
 if __name__ == '__main__':
     main()
