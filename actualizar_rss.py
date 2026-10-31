@@ -7,6 +7,8 @@ import os
 import re
 import tempfile
 import urllib.request
+import urllib.error
+import time
 import xml.etree.ElementTree as ET
 
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -51,22 +53,27 @@ NS = {
 }
 
 
-def descargar(url: str, timeout: int = 60) -> bytes:
-    peticion = urllib.request.Request(
-        url,
-        headers=CABECERAS,
-    )
-
-    with urllib.request.urlopen(
-        peticion,
-        timeout=timeout,
-    ) as respuesta:
-        contenido = respuesta.read()
-
-    if not contenido:
-        raise RuntimeError(f"Respuesta vacía: {url}")
-
-    return contenido
+def descargar(url: str, timeout: int = 35) -> bytes:
+    """Reintenta errores transitorios, sin eludir restricciones de acceso."""
+    for intento in range(3):
+        try:
+            peticion = urllib.request.Request(url, headers=CABECERAS)
+            with urllib.request.urlopen(peticion, timeout=timeout) as respuesta:
+                contenido = respuesta.read()
+            if not contenido:
+                raise RuntimeError(f"Respuesta vacía: {url}")
+            return contenido
+        except urllib.error.HTTPError as error:
+            print(f"HTTP {error.code} al consultar {url}", flush=True)
+            if error.code not in (429, 500, 502, 503, 504) or intento == 2:
+                raise
+            time.sleep(2 ** intento * 3)
+        except (urllib.error.URLError, TimeoutError) as error:
+            print(f"Error de conexión en {url}: {error}", flush=True)
+            if intento == 2:
+                raise
+            time.sleep(2 ** intento * 3)
+    raise RuntimeError(f"No se pudo descargar {url}")
 
 
 def limpiar_url(url: str) -> str:
@@ -217,6 +224,8 @@ def localizar_articulos() -> dict[str, dict]:
         for trabajo in as_completed(trabajos):
             articulos.update(trabajo.result())
 
+    if not articulos:
+        raise RuntimeError("No se encontraron artículos en los sitemaps; se conserva el RSS anterior")
     return articulos
 
 
@@ -648,7 +657,8 @@ def main() -> None:
 
         # Registra el resto para evitar introducir
         # miles de noticias antiguas en Feedly.
-        urls_vistas.update(localizados)
+        # No marcar como vistas las URL pendientes de procesar.
+        urls_vistas.update(set(localizados) - set(candidatos))
 
         print(
             "Primera ejecución: se añadirán "
@@ -731,10 +741,14 @@ def main() -> None:
 
     urls_vistas.update(articulos.keys())
 
-    guardar_xml_atomico(
-        crear_rss(articulos)
-    )
+    # No regenerar el XML si no hay artículos nuevos.
+    if resultados or not SALIDA.exists():
+        guardar_xml_atomico(crear_rss(articulos))
+    else:
+        print("Sin noticias nuevas: se conserva rss.xml")
 
+    # Mantener el estado sincronizado, aunque no haya noticias nuevas.
+    # Evita marcar como vistas noticias que no pudieron descargarse.
     guardar_estado(urls_vistas)
 
     economia_anadidas = sum(
