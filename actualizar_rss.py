@@ -9,6 +9,9 @@ import tempfile
 import urllib.request
 import urllib.error
 import time
+import threading
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 import xml.etree.ElementTree as ET
 
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -29,8 +32,8 @@ NUMERO_SITEMAPS_RECIENTES = 3
 NOTICIAS_PRIMERA_EJECUCION = 100
 MAXIMO_ARTICULOS_RSS = 1500
 MAXIMO_URL_ESTADO = 30000
-MAXIMO_NUEVOS_POR_EJECUCION = 200
-TRABAJADORES = 8
+MAXIMO_NUEVOS_POR_EJECUCION = 60
+TRABAJADORES = 2
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -53,9 +56,16 @@ NS = {
 }
 
 
-def descargar(url: str, timeout: int = 35) -> bytes:
-    """Reintenta errores transitorios, sin eludir restricciones de acceso."""
-    for intento in range(3):
+# Al recibir un 429 se detiene el procesamiento de artículos de esta tanda.
+# Las URL fallidas no se marcan como vistas y podrán recuperarse más adelante.
+LIMITE_EFE = threading.Event()
+
+
+def descargar(url: str, timeout: int = 25) -> bytes:
+    """Descarga con un reintento moderado y respeto a Retry-After."""
+    if LIMITE_EFE.is_set():
+        raise RuntimeError("Peticiones detenidas tras HTTP 429; pendiente para otra ejecución")
+    for intento in range(2):
         try:
             peticion = urllib.request.Request(url, headers=CABECERAS)
             with urllib.request.urlopen(peticion, timeout=timeout) as respuesta:
@@ -65,14 +75,18 @@ def descargar(url: str, timeout: int = 35) -> bytes:
             return contenido
         except urllib.error.HTTPError as error:
             print(f"HTTP {error.code} al consultar {url}", flush=True)
-            if error.code not in (429, 500, 502, 503, 504) or intento == 2:
+            if error.code == 429:
+                LIMITE_EFE.set()
+                print("Límite de EFE alcanzado: se aplazan artículos pendientes", flush=True)
                 raise
-            time.sleep(2 ** intento * 3)
+            if error.code not in (500, 502, 503, 504) or intento == 1:
+                raise
+            time.sleep(3)
         except (urllib.error.URLError, TimeoutError) as error:
             print(f"Error de conexión en {url}: {error}", flush=True)
-            if intento == 2:
+            if intento == 1:
                 raise
-            time.sleep(2 ** intento * 3)
+            time.sleep(3)
     raise RuntimeError(f"No se pudo descargar {url}")
 
 
@@ -711,6 +725,7 @@ def main() -> None:
     pendientes = pendientes[
         :MAXIMO_NUEVOS_POR_EJECUCION
     ]
+    print(f"Artículos pendientes seleccionados: {len(pendientes)}", flush=True)
 
     resultados: list[dict] = []
 
@@ -732,6 +747,9 @@ def main() -> None:
             if resultado:
                 resultados.append(resultado)
 
+    if LIMITE_EFE.is_set():
+        print("AVISO: EFE ha limitado las peticiones (429). Las URL fallidas NO se marcan como vistas.", flush=True)
+
     for resultado in resultados:
         articulos[resultado["url"]] = crear_item(
             resultado
@@ -750,6 +768,7 @@ def main() -> None:
     # Mantener el estado sincronizado, aunque no haya noticias nuevas.
     # Evita marcar como vistas noticias que no pudieron descargarse.
     guardar_estado(urls_vistas)
+    print(f"Artículos fallidos o pendientes de próxima ejecución: {len(pendientes) - len(resultados)}", flush=True)
 
     economia_anadidas = sum(
         1
