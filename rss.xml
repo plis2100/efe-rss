@@ -5,7 +5,7 @@
     <link>https://efe.com</link>
     <description>Titulares publicados en listados públicos de EFE; cobertura parcial, no exhaustiva.</description>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 07 Nov 2026 13:29:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 18:15:18 +0000</lastBuildDate>
     <item>
       <title>El aceite de oliva comienza a brotar en las almazaras andaluzas</title>
       <link>https://efe.com/economia/2026-11-07/el-aceite-de-oliva-comienza-a-brotar-en-las-almazaras-andaluzas/</link>
@@ -397,6 +397,14 @@
       <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
       <category>Deportes</category>
       <description>Buenos Aires (EFE).- La FIFA aceptó parcialmente la apelación de la Asociación del Fútbol Argentino (AFA) contra las sanciones impuestas tras los incidentes en la final del Mundial 2026 que conquistó España al reducir de 7 a 4 partidos la suspensión de Nahuel Molina, pero mantuvo las 10 fechas a...</description>
+    </item>
+    <item>
+      <title>Al menos seis muertos y 15 heridos en un tiroteo en la ciudad polaca de Cracovia</title>
+      <link>https://efe.com/mundo/2026-11-07/tiroteo-cracovia-polonia/</link>
+      <guid isPermaLink="true">https://efe.com/mundo/2026-11-07/tiroteo-cracovia-polonia/</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <category>España</category>
+      <description>Cracovia (Polonia) (EFE).- Al menos seis personas murieron y otras 15 resultaron heridas este sábado cuando un hombre irrumpió con un coche en la plaza mayor de Cracovia, en el sur de Polonia, y comenzó a disparar al azar a transeúntes, informó la Policía, que ha detenido al atacante, un...</description>
     </item>
     <item>
       <title>León XIV regresa a Latinoamérica en «un viaje muy deseado»</title>
@@ -14122,16 +14130,6 @@
       <description>Apple pondrá a la venta este viernes en sus tiendas físicas el iPhone Duo, su primer teléfono inteligente plegable, con unidades "limitadas".</description>
       <author>Alfonso Hernandez</author>
       <enclosure url="https://efe.com/wp-content/uploads/2026/10/OBJ_20260917T210956S0002I_1_1_1_43_7_8.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Luisa González, la alfil de Rafael Correa que enfrentó a Noboa en Ecuador, arrestada por los fondos de su campaña</title>
-      <link>https://efe.com/mundo/2026-10-22/claves-luisa-gonzalez-rafael-correa-arrestada-fondos-campana-presidencial/</link>
-      <guid isPermaLink="true">https://efe.com/mundo/2026-10-22/claves-luisa-gonzalez-rafael-correa-arrestada-fondos-campana-presidencial/</guid>
-      <pubDate>Thu, 22 Oct 2026 19:17:35 +0000</pubDate>
-      <category>Mundo</category>
-      <description>Luisa González, la excandidata presidencial del correísmo, fue arrestada en Ecuador por el presunto manejo irregular de fondos de campaña.</description>
-      <author>Christian Sandoval</author>
-      <enclosure url="https://efe.com/wp-content/uploads/2026/10/Luisa_Gonzalez_Ecuador.webp" type="image/jpeg" />
     </item>
   </channel>
 </rss>
